@@ -28,8 +28,8 @@ Simsung has been tested on:
 2. Reinstalling device drivers.
 3. It's likely that the device is no longer authorized on ADB for whatever reason. If the device is shown as unauthorized, go to the developer options on the phone and click "Revoke USB debugging authorization" (tested with JellyBean & Samsung GalaxyIII). The device will ask if you are agree to connect the computer id.
 - Once fixed and you should see your device their with 'AUTHORIZED' written next to it.
-- Just type './adb shell' then copy what you can to remove and paste it in the powershell window. (Right click on your mouse)
-- Wait for it to process after a few minutes you should see a message saying 'Sucessful'</br>
+- Just type './adb shell' then copy what you can to remove and from the command list and paste it in the powershell window. (Right click on your mouse)
+- Wait for it to process after a few seconds you should see a message saying 'Success'</br>
 - Keep going until you've finish the command list completely.
 - Voila! You've a lighter and smoother phone.
 </br>
