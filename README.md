@@ -30,7 +30,6 @@ Simsung has been tested on:
 - Once fixed and you should see your device their with 'AUTHORIZED' written next to it.
 - Just type './adb shell' then copy what you can to remove and paste it in the powershell window. (Right click on your mouse)
 - Wait for it to process after a few minutes you should see a message saying 'Sucessful'</br>
-- Keep going until you think you've removed enough apps.
+- Keep going until you've finish the command list completely.
 - Voila! You've a lighter and smoother phone.
-- The list is contently getting updated.
 </br>
