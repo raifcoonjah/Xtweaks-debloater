@@ -1,4 +1,22 @@
-========================= List of SAMSUNG APPS ================================
+Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
+Special  Thanks: to Ijaz Farooq from XDA for the base.
+
+Lastest Update Logs v1.2 Beta:
+- Main: Removed things that might break stuff in the long run.
+- I'm working on a Command List Lite, which is custom made by me and is more friendly on removing apps.
+- Added S voice to the samsung list.
+- Added flipboard on optional.
+- Updated some package names.
+- Clean up overall notepad file.
+- Fixed notification latency due to push notification being removed. 
+- Fixed Google Login issues.
+- Tested on Galaxy s6 series.
+Side note: Samsung pay has now been removed completely, if you want to remove it use this command:
+- pm uninstall -k --user 0 com.samsung.android.spay
+
+Apps list (Use at your own risk):
+
+========================= List of Samsung Apps ================================
 pm uninstall -k --user 0 com.samsung.svoice.sync
 pm uninstall -k --user 0 com.samsung.android.app.watchmanager
 pm uninstall -k --user 0 com.samsung.android.drivelink.stub
@@ -10,9 +28,7 @@ pm uninstall -k --user 0 com.samsung.android.spdfnote
 pm uninstall -k --user 0 com.sec.android.widgetapp.samsungapps
 pm uninstall -k --user 0 com.samsung.android.email.provider
 pm uninstall -k --user 0 com.samsung.android.app.ledcoverdream
-pm uninstall -k --user 0 com.sec.spp.push
 pm uninstall -k --user 0 com.sec.android.app.shealth
-pm uninstall -k --user 0 com.samsung.android.spay
 pm uninstall -k --user 0 com.samsung.android.voicewakeup
 pm uninstall -k --user 0 com.samsung.voiceserviceplatform
 pm uninstall -k --user 0 com.sec.android.sidesync30
@@ -41,44 +57,44 @@ pm uninstall -k --user 0 com.tripadvisor.tripadvisor
 pm uninstall -k --user 0 com.android.email
 pm uninstall -k --user 0 com.sec.android.app.ocr
 
-///
-==================================== LIST OF GOOGLE APPS ====================================
-pm uninstall -k --user 0 com.google.android.googlequicksearchbox
+
+==================================== List of Google Apps (Use at your own risk) ====================================
 pm uninstall -k --user 0 com.google.android.gm
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.music
 pm uninstall -k --user 0 com.google.android.apps.docs
-pm uninstall -k --user 0 com.google.android.apps.maps
 pm uninstall -k --user 0 com.android.chrome
-pm uninstall -k --user 0 com.google.android.apps.photos
 pm uninstall -k --user 0 com.google.vr.vrcore
 pm uninstall -k --user 0 com.google.android.youtube
-pm uninstall -k --user 0 com.google.android.videos
-pm uninstall -k --user 0 com.google.android.talk
 pm uninstall -k --user 0 com.google.android.apps.books
 pm uninstall -k --user 0 com.google.android.apps.magazines
-pm uninstall -k --user 0 com.google.android.apps.plus
-///
-==================================== Microsoft LIST ===========================================
+pm uninstall -k --user 0 com.google.android.apps.plus 
+
+
+==================================== List of Microsoft Apps ===========================================
 pm uninstall -k --user 0 com.microsoft.skydrive
 pm uninstall -k --user 0 com.skype.raider
 pm uninstall -k --user 0 com.microsoft.office.excel
 pm uninstall -k --user 0 com.microsoft.office.word
 pm uninstall -k --user 0 com.microsoft.office.powerpoint
-///
-==================================== Misc =======================================================
+
+
+==================================== Optional things =======================================================
+
 ========== Facebook Bloat ============ 
 pm uninstall -k --user 0 com.facebook.katana
 pm uninstall -k --user 0 com.facebook.system
 pm uninstall -k --user 0 com.facebook.appmanager
 pm uninstall -k --user 0 com.facebook.services
+
 ========== Amazon stuff  =============
 pm uninstall -k --user 0 com.amazon.mShop.android
 pm uninstall -k --user 0 com.amazon.fv
 pm uninstall -k --user 0 com.amazon.kindle
 pm uninstall -k --user 0 com.amazon.mp3
 pm uninstall -k --user 0 com.amazon.venezia
-========= Custom and misc (Optional) =========
+
+========= Custom and misc =========
 pm uninstall -k --user 0 flipboard.boxer.app
 pm uninstall -k --user 0 flipboard.app
 pm uninstall -k --user 0 com.hancom.office.editor.hidden
@@ -87,16 +103,6 @@ pm uninstall -k --user 0 com.blurb.checkout
 pm uninstall -k --user 0 com.cequint.ecid
 pm uninstall -k --user 0 com.imdb.mobile
 pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
-pm uninstall -k --user 0 com.infraware.polarisoffice5
+pm uninstall -k --user 0 com.infraware.polarisoffice5 
 pm uninstall -k --user 0 com.nuance.swype.input
-
-
-
-
-- All credit to Ijaz Farooq from xda for the base.
-- v1.1 update change log:
-1. Updated list.
-2. Added list from XDA thread: https://forum.xda-developers.com/showpost.php?p=73894621&postcount=23
-3. Added more stuff misc stuff
-4. Put them in a category section.
-5. I'm planning to move from a notepad file to a fully online solution like pastebin or codebin.
+pm uninstall -k --user 0                    -- 
