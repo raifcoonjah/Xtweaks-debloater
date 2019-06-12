@@ -1,18 +1,13 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
 Special  Thanks: to Ijaz Farooq from XDA for the base.
 
-Lastest Update Logs v1.2 Beta:
-- Main: Removed things that might break stuff in the long run.
-- I'm working on a Command List Lite, which is custom made by me and is more friendly on removing apps.
-- Added S voice to the samsung list.
-- Added flipboard on optional.
-- Updated some package names.
-- Clean up overall notepad file.
-- Fixed notification latency due to push notification being removed. 
-- Fixed Google Login issues.
-- Tested on Galaxy s6 series.
-Side note: Samsung pay has now been removed completely, if you want to remove it use this command:
-- pm uninstall -k --user 0 com.samsung.android.spay
+Lastest Update Logs v1.3 Beta:
+- Removed google search bar.
+- Added bixby. (Package names not available yet)
+- General package name updates.
+- Fixed several issues with microsoft apps.
+- Added samsung pay in it's own section.
+
 
 Apps list (Use at your own risk):
 
@@ -58,8 +53,7 @@ pm uninstall -k --user 0 com.android.email
 pm uninstall -k --user 0 com.sec.android.app.ocr
 
 
-==================================== List of Google Apps (Use at your own risk) ====================================
-pm uninstall -k --user 0 com.google.android.gm
+==================================== List of Google Apps (Risk-free) ====================================
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.music
 pm uninstall -k --user 0 com.google.android.apps.docs
@@ -77,6 +71,7 @@ pm uninstall -k --user 0 com.skype.raider
 pm uninstall -k --user 0 com.microsoft.office.excel
 pm uninstall -k --user 0 com.microsoft.office.word
 pm uninstall -k --user 0 com.microsoft.office.powerpoint
+pm uninstall -k --user 0 com.microsoft.office.outlook 
 
 
 ==================================== Optional things =======================================================
@@ -105,4 +100,20 @@ pm uninstall -k --user 0 com.imdb.mobile
 pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
 pm uninstall -k --user 0 com.infraware.polarisoffice5 
 pm uninstall -k --user 0 com.nuance.swype.input
-pm uninstall -k --user 0                    -- 
+pm uninstall -k --user 0  com.
+
+
+============= Samsung Pay ==================
+- pm uninstall -k --user 0 com.samsung.android.spay
+
+
+
+========= Bixby Little package ========
+
+
+
+
+
+
+
+========= Bixby Full package (Use at your own risk) =========
