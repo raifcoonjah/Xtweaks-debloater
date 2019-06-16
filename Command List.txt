@@ -1,12 +1,14 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
-Special  Thanks: to Ijaz Farooq from XDA for the base.
+Special  Thanks: to Ijaz Farooq from XDA for most the commands.
 
-Lastest Update Logs v1.3 Beta:
-- Removed google search bar.
-- Added bixby. (Package names not available yet)
-- General package name updates.
-- Fixed several issues with microsoft apps.
-- Added samsung pay in it's own section.
+Lastest Update Logs v1.4 Beta:
+- Important: Fixed Adb files.
+- Updated some package names.
+- Testing bixby removal internally, if it's worth the removal I'll add the package names.
+- I'll work on a more privacy focus version of the command list, soon.
+- Facebook sometimes doesn't install, if it doesn't just re-run all the commands, it should remove it then.
+- I'm going to start working on Command List Lite tomorrow, expect it in the next release.
+- Added svoice back, it seems like some device still have it installed (lol what)
 
 
 Apps list (Use at your own risk):
@@ -100,7 +102,7 @@ pm uninstall -k --user 0 com.imdb.mobile
 pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
 pm uninstall -k --user 0 com.infraware.polarisoffice5 
 pm uninstall -k --user 0 com.nuance.swype.input
-pm uninstall -k --user 0  com.
+pm uninstall -k --user 0  none
 
 
 ============= Samsung Pay ==================
@@ -109,7 +111,7 @@ pm uninstall -k --user 0  com.
 
 
 ========= Bixby Little package ========
-
+- In testing phase.
 
 
 
@@ -117,3 +119,4 @@ pm uninstall -k --user 0  com.
 
 
 ========= Bixby Full package (Use at your own risk) =========
+- In testing phase.
