@@ -1,3 +1,2 @@
-<b>Simsung Tweaks</b> by mraif13
+![alt text](https://imgur.com/a/uLIdpVW)
 
-More information will be provided soon :)
