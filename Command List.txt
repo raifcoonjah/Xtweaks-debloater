@@ -115,17 +115,17 @@ pm uninstall -k --user 0  none
 
 
 ============= Samsung Pay ==================
-- pm uninstall -k --user 0 com.samsung.android.spay
+pm uninstall -k --user 0 com.samsung.android.spay
 
 
 
 ========= Bixby Little package ========
-- In testing phase, might take 2-3 weeks.
+pm uninstall -k --user 0 com.samsung.android.app.reminder
 
 
 
 ========= Bixby Full package (Use at your own risk) =========
-- In testing phase, might take 2-3 weeks.
+pm uninstall -k --user 0 com.samsung.android.app.reminder
 
 
 ========= Hidden apps/Adware =========
