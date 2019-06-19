@@ -18,4 +18,7 @@ Other thanks to: James, Adel and Muhammed for testing.<br>
 4. Wait for it the say 'Success', then voila! it's done.
 
 - Troubleshoot 
-1. != Coming soon =!
+1. Device not showing?
+- Try running the samsung_usb_drivers.exe found in the Drivers folder.
+2. Misc
+- More misc..
