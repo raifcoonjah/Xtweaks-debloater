@@ -93,7 +93,7 @@ pm uninstall -k --user 0 com.facebook.system
 pm uninstall -k --user 0 com.facebook.appmanager
 pm uninstall -k --user 0 com.facebook.services
 
-========== Amazon stuff  =============
+========== Amazon Bloat  =============
 pm uninstall -k --user 0 com.amazon.mShop.android
 pm uninstall -k --user 0 com.amazon.fv
 pm uninstall -k --user 0 com.amazon.kindle

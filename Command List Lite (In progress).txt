@@ -14,4 +14,28 @@ Change Log v1.0:
 - Created file.
 - Added usual test.
 - Added new branding.
+- Added list of apps. 
+
+
+============= List of apps =====================
+
+
+pm uninstall -k --user 0 com.android.chrome
+pm uninstall -k --user 0 com.google.android.youtube
+pm uninstall -k --user 0 com.google.android.apps.plus
+pm uninstall -k --user 0 com.google.android.music
+pm uninstall -k --user 0 com.microsoft.skydrive
+pm uninstall -k --user 0 com.skype.raider
+pm uninstall -k --user 0 com.microsoft.office.excel
+pm uninstall -k --user 0 com.microsoft.office.word
+pm uninstall -k --user 0 com.microsoft.office.powerpoint
+pm uninstall -k --user 0 com.microsoft.office.outlook 
+
+========== Facebook Bloat ============ 
+pm uninstall -k --user 0 com.facebook.katana
+pm uninstall -k --user 0 com.facebook.system
+pm uninstall -k --user 0 com.facebook.appmanager
+pm uninstall -k --user 0 com.facebook.services
+
+
 
