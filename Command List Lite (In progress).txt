@@ -15,6 +15,7 @@ Change Log v1.0:
 - Added usual test.
 - Added new branding.
 - Added list of apps. 
+- First public release.
 
 
 ============= List of apps =====================

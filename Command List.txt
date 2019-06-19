@@ -17,8 +17,9 @@ emulator for testing and checking for it's package name)
 - Samsung edge Widgets are going to be moved in their separate category in the next update.
 - Added Samsung reminders app in bixby full/lite.
 - Added Command List Lite. (Still in early development stages.
-- Privacy focus will not be available until later this year as I don't have a device to check it on right now
+- Privacy focus will not be available until later this year as I don't have a device to test it on right now
 - Bixby is still in testing stages.
+- Samsung drivers are going to be added in the next update.
 
 Apps list (Use at your own risk):
 
