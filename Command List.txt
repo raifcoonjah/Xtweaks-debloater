@@ -7,19 +7,11 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
 Special  Thanks: to Ijaz Farooq from XDA for most the commands.
 
-Lastest Change Logs v1.5 Beta:
-- Fixed bug where amazon apps wouldn't uninstall.
-- Added Adware package Category, in progress. (Actually this was requested by one of friends, this might take long because I would definetly need to setup a android
-emulator for testing and checking for it's package name)
-- Added Privacy Focus Category. (Privacy focus will not be available until later this year as I don't have a device to test it on right now)
-- Added new branding.
-- Fixed instagram stories integration. (A restart fixes the bug)
-- Samsung edge Widgets are going to be moved in their separate category in the next update.
-- Added Samsung reminders app in bixby full/lite.
-- Added Command List Lite. (Still in early development stages.
-- Privacy focus will not be available until later this year as I don't have a device to test it on right now
-- Bixby is still in testing stages.
-- Samsung drivers are going to be added in the next update.
+Lastest Change Logs v1.6 Beta:
+- Added samsung drivers.
+- Updated some package names.
+- I'm currently looking into using the adb push to device name stuffs, I might release it or not. I'm currently very busy with some stuff.
+
 
 Apps list (Use at your own risk):
 
