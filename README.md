@@ -20,5 +20,5 @@ Other thanks to: James, Adel and Muhammed for testing.<br>
 - Troubleshoot 
 1. Device not showing?
 - Try running the samsung_usb_drivers.exe found in the Drivers folder.
-2. Misc
-- More misc..
+2. Commands not working?
+- Try writting the command instead.
