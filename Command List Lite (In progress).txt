@@ -11,12 +11,15 @@ Notice: All these commands have been tested, but I cannot make sure it works on 
 Thanks to: James, Adel and Muhammed for testing.
 
 Change Log v1.1
-- Added skype, one drive
-- Added reminder app, flipboard.
-
+- Added more commands. 
+- Fixed issues with facebook bloat.
+- Minor changes.
 ============= List of apps =====================
-
-
+pm uninstall -k --user 0 com.samsung.android.app.reminder
+pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
+pm uninstall -k --user 0 com.samsung.android.app.routines
+pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
+pm uninstall -k --user 0 com.samsung.android.spay
 pm uninstall -k --user 0 com.android.chrome
 pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.plus
@@ -26,7 +29,17 @@ pm uninstall -k --user 0 com.skype.raider
 pm uninstall -k --user 0 com.microsoft.office.excel
 pm uninstall -k --user 0 com.microsoft.office.word
 pm uninstall -k --user 0 com.microsoft.office.powerpoint
-pm uninstall -k --user 0 com.microsoft.office.outlook 
+pm uninstall -k --user 0 com.microsoft.office.outlook
+pm uninstall -k --user 0 flipboard.boxer.app
+pm uninstall -k --user 0 flipboard.app
+pm uninstall -k --user 0 com.hancom.office.editor.hidden
+pm uninstall -k --user 0 com.audible.application
+pm uninstall -k --user 0 com.blurb.checkout
+pm uninstall -k --user 0 com.cequint.ecid
+pm uninstall -k --user 0 com.imdb.mobile
+pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
+pm uninstall -k --user 0 com.infraware.polarisoffice5 
+pm uninstall -k --user 0 com.nuance.swype.input
 
 ========== Facebook Bloat ============ 
 pm uninstall -k --user 0 com.facebook.katana

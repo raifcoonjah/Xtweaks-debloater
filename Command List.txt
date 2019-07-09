@@ -1,57 +1,81 @@
 
+======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
 
+================= Simsung Tweaks by mraif13 =================================
+======= Make your device faster, lighter and bloatware free ============================
 
-============= Simsung Tweaks by mraif13 ==============================================
-======= Make your device faster, lighter and bloatware free =====================================
-
-Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
+Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. Don't point at me when something goes wrong I'll laugh at you. You can always message me on instagram @mraif13 I'll see if I can help you.
 Special  Thanks: to Ijaz Farooq from XDA for most the commands.
 
-Lastest Change Logs v1.7 Beta:
-- Added Spring bloat.
+Lastest Change Logs v2.0 Beta:
+- Full revamp of the list of samsung bloatwares.
+(Due to many complains about the list causing issues I decided to rewrite the commands completely, making them more user-friendly and stable to use.)
+- Added many, many, many new commands.
+- Added bixby full & lite package.
+- Added Useless bloat, these are things that are completely safe to remove.
+- Privacy focus has been removed.
+- Bump version to v2
+- Updated many commands.
+
 
 Apps list (Use at your own risk):
-
-========================= List of Samsung Bloatware ================================
-pm uninstall -k --user 0 com.samsung.svoice.sync
-pm uninstall -k --user 0 com.samsung.android.app.watchmanager
-pm uninstall -k --user 0 com.samsung.android.drivelink.stub
-pm uninstall -k --user 0 com.samsung.android.svoice
-pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.finance
-pm uninstall -k --user 0 com.android.dreams.phototable
-pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.sport
-pm uninstall -k --user 0 com.samsung.android.spdfnote
+========================= List of New Samsung Bloatware ================================
+Useless bloat
+pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels
+pm uninstall -k --user 0 com.dsi.ant.service.socket
+pm uninstall -k --user 0 com.dsi.ant.server
+pm uninstall -k --user 0 com.dsi.ant.plugins.antplus
+pm uninstall -k --user 0 com.android.egg
+pm uninstall -k --user 0 com.sec.android.easyonehand
 pm uninstall -k --user 0 com.sec.android.widgetapp.samsungapps
+pm uninstall -k --user 0 com.sec.android.app.launcher
+pm uninstall -k --user 0 com.samsung.android.mateagent
+pm uninstall -k --user 0 com.sec.android.easyMover.Agent
+pm uninstall -k --user 0 com.samsung.android.app.watchmanagerstub
+pm uninstall -k --user 0 com.sec.android.daemonapp
+pm uninstall -k --user 0 com.samsung.android.app.social
+
+Samsung Email
 pm uninstall -k --user 0 com.samsung.android.email.provider
-pm uninstall -k --user 0 com.samsung.android.app.ledcoverdream
-pm uninstall -k --user 0 com.sec.android.app.shealth
-pm uninstall -k --user 0 com.samsung.android.voicewakeup
-pm uninstall -k --user 0 com.samsung.voiceserviceplatform
-pm uninstall -k --user 0 com.sec.android.sidesync30
+pm uninstall -k --user 0 com.wsomacp
+Game Launcher
+pm uninstall -k --user 0 com.samsung.android.game.gamehome
+pm uninstall -k --user 0 com.enhance.gameservice
+pm uninstall -k --user 0 com.samsung.android.game.gametools
+pm uninstall -k --user 0 com.samsung.android.game.gos
+pm uninstall -k --user 0 com.samsung.android.gametuner.thin
+
+Samsung Browser
+pm uninstall -k --user 0 com.sec.android.app.sbrowser
+pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge
+
+Gear VR services
 pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc
 pm uninstall -k --user 0 com.samsung.android.app.vrsetupwizardstub
 pm uninstall -k --user 0 com.samsung.android.hmt.vrshell
-pm uninstall -k --user 0 com.android.exchange
-pm uninstall -k --user 0 com.samsung.groupcast
-pm uninstall -k --user 0 com.sec.android.service.health
-pm uninstall -k --user 0 com.sec.kidsplat.installer
-pm uninstall -k --user 0 com.sec.android.widgetapp.diotek.smemo
-pm uninstall -k --user 0 com.sec.android.provider.snote
-pm uninstall -k --user 0 com.sec.android.app.translator
-pm uninstall -k --user 0 com.vlingo.midas
-pm uninstall -k --user 0 com.sec.readershub
-pm uninstall -k --user 0 com.sec.android.app.gamehub
-pm uninstall -k --user 0 com.sec.everglades.update
-pm uninstall -k --user 0 com.sec.everglades
-pm uninstall -k --user 0 tv.peel.samsung.app
-pm uninstall -k --user 0 com.sec.yosemite.phone
-pm uninstall -k --user 0 com.samsung.android.app.episodes
-pm uninstall -k --user 0 com.samsung.android.app.storyalbumwidget
-pm uninstall -k --user 0 com.samsung.android.tripwidget
-pm uninstall -k --user 0 com.samsung.android.service.travel
-pm uninstall -k --user 0 com.tripadvisor.tripadvisor
-pm uninstall -k --user 0 com.android.email
-pm uninstall -k --user 0 com.sec.android.app.ocr
+pm uninstall -k --user 0 com.google.vr.vrcore
+
+Kids mode
+pm uninstall -k --user 0 com.samsung.android.kidsinstaller
+pm uninstall -k --user 0 com.samsung.android.app.camera.sticker.facearavatar.preload
+
+LED COVER
+pm uninstall -k --user 0 com.samsung.android.app.ledbackcover
+pm uninstall -k --user 0 com.sec.android.cover.ledcover
+
+Edge panel (People)
+pm uninstall -k --user 0 com.samsung.android.service.peoplestripe
+
+Dex
+pm uninstall -k --user 0 com.sec.android.desktopmode.uiservice
+pm uninstall -k --user 0 com.samsung.desktopsystemui
+pm uninstall -k --user 0 com.sec.android.app.desktoplauncher
+
+
+============= Printing Services ====================
+pm uninstall -k --user 0 com.android.bips
+pm uninstall -k --user 0 com.google.android.printservice.recommendation
+pm uninstall -k --user 0 com.android.printspooler
 
 ==================================== List of Google Apps (Risk-free) ====================================
 pm uninstall -k --user 0 com.google.android.apps.tachyon
@@ -63,10 +87,7 @@ pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.books
 pm uninstall -k --user 0 com.google.android.apps.magazines
 pm uninstall -k --user 0 com.google.android.apps.plus 
-
-==================================== List For Privacy Focus ====================================
-(- Remove app that can risk your privacy, this will definetly remove some functionality off your device) 
-
+pm uninstall -k --user 0 com.google.ar.core
 
 ==================================== List of Microsoft Apps ===========================================
 pm uninstall -k --user 0 com.microsoft.skydrive
@@ -77,9 +98,9 @@ pm uninstall -k --user 0 com.microsoft.office.powerpoint
 pm uninstall -k --user 0 com.microsoft.office.outlook 
 
 
-==================================== Optional things =======================================================
+==================================== List of Optional commands ========================================
 
-=================================== List of Spring bloat ==========================================
+========== Spring Bloat ============ 
 pm uninstall -k --user 0 com.sprint.care
 pm uninstall -k --user 0 com.sprint.ecid
 pm uninstall -k --user 0 com.sprint.zone
@@ -120,21 +141,28 @@ pm uninstall -k --user 0 com.imdb.mobile
 pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
 pm uninstall -k --user 0 com.infraware.polarisoffice5 
 pm uninstall -k --user 0 com.nuance.swype.input
-pm uninstall -k --user 0  none
-
 
 ============= Samsung Pay ==================
 pm uninstall -k --user 0 com.samsung.android.spay
 
-
+Some info about bixby packages: I decided not remove the Bixby vision and Framework packages so we can still retain built-in QR, barcode scanning and other AI related things found in the stock camera app.
 
 ========= Bixby Little package ========
 pm uninstall -k --user 0 com.samsung.android.app.reminder
-
-
+pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
+pm uninstall -k --user 0 com.samsung.android.app.routines
+pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
 
 ========= Bixby Full package (Use at your own risk) =========
 pm uninstall -k --user 0 com.samsung.android.app.reminder
+pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
+pm uninstall -k --user 0 com.samsung.android.app.spage
+pm uninstall -k --user 0 com.samsung.android.app.routines
+pm uninstall -k --user 0 com.samsung.android.bixby.service
+pm uninstall -k --user 0 com.samsung.android.visionintelligence
+pm uninstall -k --user 0 com.samsung.android.bixby.agent
+pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
+pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
 
 
 ========= Hidden apps/Adware =========
