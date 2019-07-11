@@ -1,7 +1,7 @@
 ![alt text](https://mraif13.github.io/jpg.jpg)
 
 Special  Thanks to: Ijaz Farooq from XDA for most the commands<br>
-Other thanks to: James, Adel and Muhammed for testing.<br>
+Other thanks to: James, Reyansh, Rajesh and Muhammed for testing and their help!<br>
 
 - Notice before we start 
 1. All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
