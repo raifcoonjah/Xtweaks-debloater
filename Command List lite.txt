@@ -11,15 +11,10 @@ Notice: All these commands have been tested, but I cannot make sure it works on 
 Thanks to: James, Adel and Muhammed for testing.
 
 Change Log v1.1
-- Added more commands. 
-- Fixed issues with facebook bloat.
-- Minor changes.
+- Removed things that might cause issues later on.
+- Minor Changes made.
+
 ============= List of apps =====================
-pm uninstall -k --user 0 com.samsung.android.app.reminder
-pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
-pm uninstall -k --user 0 com.samsung.android.app.routines
-pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
-pm uninstall -k --user 0 com.samsung.android.spay
 pm uninstall -k --user 0 com.android.chrome
 pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.plus
