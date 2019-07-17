@@ -30,10 +30,10 @@ or
 - Try writting the command instead.
 3. How to enable Developer options/USB Debugging?
 - From a Home screen, swipe up or down from the center of the display to access the apps screen.
-Note These instructions only apply to Standard mode and the default Home screen layout.
-Navigate: Settings Settings icon > Developer options.
-Note If not available, swipe up or down from the center of the display then navigate: Settings > About phone > Software information then tap Build number seven times.
-Note If presented, enter the current PIN, password, or pattern.
-Ensure that the Developer options switch (upper-right) is turned on Switch on.
-From the Debugging section, tap USB debugging to turn on or off.
-If prompted, tap OK to confirm.
+1. Note These instructions only apply to Standard mode and the default Home screen layout.
+2. Navigate: Settings Settings icon > Developer options.
+3. Note If not available, swipe up or down from the center of the display then navigate: Settings > About phone > Software information then tap Build number seven times.
+4. Note If presented, enter the current PIN, password, or pattern.
+5. Ensure that the Developer options switch (upper-right) is turned on Switch on.
+6. From the Debugging section, tap USB debugging to turn on or off.
+7. If prompted, tap OK to confirm.
