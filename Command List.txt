@@ -7,7 +7,7 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
 Thanks to: James, Adel and Muhammed for testing.
 
-Lastest Change Logs v2.1 Beta:
+Lastest Change Logs v2.2 Beta:
 - Fixed rooted device notification in secure folder. (Apply new commands and then restart)
 - Rebase on my own commands.
 - Updated Notice.
