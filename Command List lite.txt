@@ -10,7 +10,7 @@ Welcome to Command List Lite
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
 Thanks to: James, Adel and Muhammed for testing.
 
-Change Log v1.2
+Change Log v1.2.1
 - Added flipboard.
 - Added kids mode.
 - Added printing services.
