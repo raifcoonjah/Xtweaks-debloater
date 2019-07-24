@@ -37,3 +37,4 @@ or
 5. Ensure that the Developer options switch (upper-right) is turned on Switch on.
 6. From the Debugging section, tap USB debugging to turn on or off.
 7. If prompted, tap OK to confirm.
+3. Battery Drain/Lag?
