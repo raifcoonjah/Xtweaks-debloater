@@ -7,16 +7,21 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
 Special Thanks to: James, Adel and Muhammed for testing.
 
-Lastest Change Logs v2.3 Beta:
-- Fixed launcher not loading after commands have been applied.
-- Minor changes.
-- Added simsung.txt (Work in progress)
+Lastest Change Logs v2.4 Beta:
+- Removed Google Chrome as it caused some issues with some devices.
+- Added Samsung Edge Widgets.
+- Added Samsung internet.
+- Added VR Apps. (Don't apply commands if you use oculus or other vr related apps)
+- Added S voice in Useless/General bloat.
+- Minor fixes and misc changes.
 
 
 
 Apps list (Use at your own risk):
 ========================= List of New Samsung Bloatware ================================
-====== Useless bloat =======
+(C) Simsung Tweaks 2019. All rights reserved. 
+Simsung tweaks is not responsible if your device is bricked or damaged.
+====== Useless/General bloat =======
 pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels
 pm uninstall -k --user 0 com.dsi.ant.service.socket
 pm uninstall -k --user 0 com.dsi.ant.server
@@ -28,11 +33,21 @@ pm uninstall -k --user 0 com.samsung.android.mateagent
 pm uninstall -k --user 0 com.sec.android.easyMover.Agent
 pm uninstall -k --user 0 com.samsung.android.app.watchmanagerstub
 pm uninstall -k --user 0 com.sec.android.daemonapp
+pm uninstall -k --user 0 com.samsung.svoice.sync
+pm uninstall -k --user 0 com.sec.svoice.lang.ru_RU
+pm uninstall -k --user 0 com.sec.svoice.lang.de_DE
+pm uninstall -k --user 0 com.sec.svoice.lang.fr_FR
+pm uninstall -k --user 0 com.sec.svoice.lang.en_GB
+pm uninstall -k --user 0 com.sec.svoice.lang.en_US
+pm uninstall -k --user 0 com.sec.svoice.lang.es_ES
+pm uninstall -k --user 0 com.sec.svoice.lang.it_IT
+
+
 ====== Samsung Email ======
 pm uninstall -k --user 0 com.samsung.android.email.provider
 pm uninstall -k --user 0 com.wsomacp
 
-====== Game  ======
+====== Game Launcher ======
 pm uninstall -k --user 0 com.samsung.android.game.gamehome
 pm uninstall -k --user 0 com.enhance.gameservice
 pm uninstall -k --user 0 com.samsung.android.game.gametools
@@ -65,6 +80,9 @@ pm uninstall -k --user 0 com.sec.android.desktopmode.uiservice
 pm uninstall -k --user 0 com.samsung.desktopsystemui
 pm uninstall -k --user 0 com.sec.android.app.desktoplauncher
 
+============= Samsung edge widgets =================
+pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge
+
 
 ============= Printing Services ====================
 pm uninstall -k --user 0 com.android.bips
@@ -75,7 +93,6 @@ pm uninstall -k --user 0 com.android.printspooler
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.music
 pm uninstall -k --user 0 com.google.android.apps.docs
-pm uninstall -k --user 0 com.android.chrome
 pm uninstall -k --user 0 com.google.vr.vrcore
 pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.books
@@ -94,6 +111,18 @@ pm uninstall -k --user 0 com.microsoft.office.outlook
 
 ==================================== List of Optional commands ========================================
 
+========== VR Bloat ===========
+WARNING, PLEASE READ: Don't apply commands if you use oculus or other vr related apps.
+
+pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc
+pm uninstall -k --user 0 com.samsung.android.app.vrsetupwizardstub
+pm uninstall -k --user 0 com.samsung.android.hmt.vrshell
+pm uninstall -k --user 0 com.google.vr.vrcore
+
+========== Samsung internet Bloat ============
+pm uninstall -k --user 0 com.sec.android.app.sbrowser
+pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge
+
 ========== Spring Bloat ============ 
 pm uninstall -k --user 0 com.sprint.care
 pm uninstall -k --user 0 com.sprint.ecid
@@ -110,7 +139,6 @@ pm uninstall -k --user 0 com.sprint.topup
 pm uninstall -k --user 0 com.sprint.ms.smf.services
 pm uninstall -k --user 0 com.sprint.safefound
 
-
 ========== Facebook Bloat ============ 
 pm uninstall -k --user 0 com.facebook.katana
 pm uninstall -k --user 0 com.facebook.system
@@ -124,24 +152,12 @@ pm uninstall -k --user 0 com.amazon.kindle
 pm uninstall -k --user 0 com.amazon.mp3
 pm uninstall -k --user 0 com.amazon.venezia
 
-========= Custom and misc =========
-pm uninstall -k --user 0 flipboard.boxer.app
-pm uninstall -k --user 0 flipboard.app
-pm uninstall -k --user 0 com.hancom.office.editor.hidden
-pm uninstall -k --user 0 com.audible.application
-pm uninstall -k --user 0 com.blurb.checkout
-pm uninstall -k --user 0 com.cequint.ecid
-pm uninstall -k --user 0 com.imdb.mobile
-pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
-pm uninstall -k --user 0 com.infraware.polarisoffice5 
-pm uninstall -k --user 0 com.nuance.swype.input
-
 ============= Samsung Pay ==================
 pm uninstall -k --user 0 com.samsung.android.spay
 
 Some info about bixby packages: I decided not remove the Bixby vision and Framework packages so we can still retain built-in QR, barcode scanning and other AI related things found in the stock camera app.
 
-========= Bixby Little package ========
+========= Bixby Lite package ========
 pm uninstall -k --user 0 com.samsung.android.app.reminder
 pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
 pm uninstall -k --user 0 com.samsung.android.app.routines
@@ -157,6 +173,19 @@ pm uninstall -k --user 0 com.samsung.android.visionintelligence
 pm uninstall -k --user 0 com.samsung.android.bixby.agent
 pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
 pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
+
+
+========= Custom and misc =========
+pm uninstall -k --user 0 flipboard.boxer.app
+pm uninstall -k --user 0 flipboard.app
+pm uninstall -k --user 0 com.hancom.office.editor.hidden
+pm uninstall -k --user 0 com.audible.application
+pm uninstall -k --user 0 com.blurb.checkout
+pm uninstall -k --user 0 com.cequint.ecid
+pm uninstall -k --user 0 com.imdb.mobile
+pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
+pm uninstall -k --user 0 com.infraware.polarisoffice5 
+pm uninstall -k --user 0 com.nuance.swype.input
 
 
 ========= Hidden apps/Adware =========

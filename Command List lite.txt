@@ -1,6 +1,5 @@
 
 
-
 ============= Simsung Tweaks by mraif13 ==============================================
 ======= Make your device faster, lighter and bloatware free =====================================
 
@@ -10,12 +9,12 @@ Welcome to Command List Lite
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
 Thanks to: James, Adel and Muhammed for testing.
 
-Change Log v1.2.1
-- Added flipboard.
-- Added kids mode.
-- Added printing services.
+Change Log v1.2.2
+- Minor changes.
+- Updated some commands.
 
 ============= List of apps =====================
+(C) simsung tweaks 2019
 pm uninstall -k --user 0 flipboard.boxer.app
 pm uninstall -k --user 0 flipboard.app
 pm uninstall -k --user 0 com.android.bips
@@ -23,8 +22,6 @@ pm uninstall -k --user 0 com.google.android.printservice.recommendation
 pm uninstall -k --user 0 com.android.printspooler
 pm uninstall -k --user 0 com.samsung.android.kidsinstaller
 pm uninstall -k --user 0 com.samsung.android.app.camera.sticker.facearavatar.preload
-pm uninstall -k --user 0 com.android.chrome
-pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.plus
 pm uninstall -k --user 0 com.google.android.music
 pm uninstall -k --user 0 com.microsoft.skydrive
@@ -43,12 +40,6 @@ pm uninstall -k --user 0 com.imdb.mobile
 pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
 pm uninstall -k --user 0 com.infraware.polarisoffice5 
 pm uninstall -k --user 0 com.nuance.swype.input
-
-========== Facebook Bloat ============ 
-pm uninstall -k --user 0 com.facebook.katana
-pm uninstall -k --user 0 com.facebook.system
-pm uninstall -k --user 0 com.facebook.appmanager
-pm uninstall -k --user 0 com.facebook.services
 
 
 
