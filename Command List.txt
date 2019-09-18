@@ -7,13 +7,12 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
 Special Thanks to: James, Adel and Muhammed for testing.
 
-Lastest Change Logs v2.4 Beta:
-- Removed Google Chrome as it caused some issues with some devices.
-- Added Samsung Edge Widgets.
-- Added Samsung internet.
-- Added VR Apps. (Don't apply commands if you use oculus or other vr related apps)
-- Added S voice in Useless/General bloat.
-- Minor fixes and misc changes.
+Lastest Change Logs v3 Beta:
+- Added a debloater for rooted users. (Based on efex easy debloat)
+- Fixed google search box.
+- Fixed launcher again.
+- Before you start flashing, please read the cautions.
+- Minor changes.
 
 
 

@@ -1,0 +1,33 @@
+
+
+Before you go down: 
+This is an experimental feature things might be broken or cause damage to your device, please use with your own risk.
+
+
+======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
+
+================= Simsung Tweaks by mraif13 =================================
+======= Make your device faster, lighter and bloatware free ============================
+
+Notice: I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
+Device tested on: S9
+Special Thanks to: James for the amazing help!
+
+Lastest Change Logs for Simsung Debloater v0.1
+- Added Simsung Tweakes branding.
+- Minor changes.
+_______________________________________
+
+Installation Process here:
+_______________________________________
+
+1 Install your preferred ROM.
+2 Boot up your phone for the first time. This might not be necessary, but I did experience some problems with SystemUI crashing when I didn't boot up the phone between flashing.
+3 Reboot into revovery and flash .zip
+4 All done! No need to wipe dalvik/cache, but do as you wish
+_______________________________________
+
+Troubleshoot
+______________________________________
+1. My phone isn't booting:
+- Your device is most likely not supported.
