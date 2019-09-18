@@ -1,7 +1,7 @@
 ![alt text](https://mraif13.github.io/jpg.jpg)
 
-Special  Thanks to: Ijaz Farooq from XDA for most the commands<br>
-Other thanks to: James, Reyansh, Rajesh and Muhammed for testing and their help!<br>
+Special  Thanks to: Ijaz Farooq from XDA for the base<br>
+Other thanks to: James, Reyansh, Sam, Max, Rajesh and Muhammed for testing and their help!<br>
 
 - Notice before we start 
 1. All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
@@ -38,3 +38,4 @@ or
 6. From the Debugging section, tap USB debugging to turn on or off.
 7. If prompted, tap OK to confirm.
 3. Battery Drain/Lag?
+- It's nearly impossible to get any battery drain from these commands, but you never know shit happens. If this is the case then your only solution is to backup everything using Smart Switch then Reset your phone. 
