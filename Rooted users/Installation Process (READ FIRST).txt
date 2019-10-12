@@ -13,9 +13,21 @@ Notice: I cannot make sure it works on every device ever. Please use this at you
 Device tested on: S9
 Special Thanks to: James for the amazing help!
 
-Lastest Change Logs for Simsung Debloater v0.1
-- Added Simsung Tweakes branding.
-- Minor changes.
+Lastest Change Logs for Simsung Debloater v0.3
+- Added Facebook section.
+- Removed all corrupted files for safety reasons.
+- Fixed system apps not getting removed.
+- Fixed some apps not getting removed.
+- Fixed google and chrome getting removed.
+- Fixed Youtube getting removed.
+- Fixed cleaning of system cache not working on some devices.
+- Fixed priv-apps not getting removed properly.
+- Fixed some errors caused by twrp.
+- Fixed all corrupted files.
+- Updated some commands.
+- Fixed facebook not getting removed due to wrong naming.
+- Fixed all bugs caused by the last update.
+- Fixed Netflix patch, not patching system.
 _______________________________________
 
 Installation Process here:
@@ -24,10 +36,25 @@ _______________________________________
 1 Install your preferred ROM.
 2 Boot up your phone for the first time. This might not be necessary, but I did experience some problems with SystemUI crashing when I didn't boot up the phone between flashing.
 3 Reboot into revovery and flash .zip
-4 All done! No need to wipe dalvik/cache, but do as you wish
+4 All done! No need to wipe dalvik/cache.
 _______________________________________
 
 Troubleshoot
 ______________________________________
 1. My phone isn't booting:
-- Your device is most likely not supported.
+- Your device is most likely not supported, simsung tweaks currently only supports the S8, S8+, S9, S9+, S10, S10e, S10+, Galaxy grand prime (gen 1)
+
+2. Netflix still doesn't work
+- This is very strange bug it happen if it does try using magisk hide or try reflash a newer version of the debloater.
+
+3. Netflix suddently stops working
+- This is a very strange but but it does happen, if so you just need to reflash the debloater then it should fix it.
+
+4. Does simsung tweaks collect my info or any diagnostics?
+- NO, we don't collect anything.
+
+5. The debloater is giving me a error
+- This is a very recent bug that started with the v0.2 and we're working on it. It you get the error a restart should fix it.
+
+6. Does simsung have access to my pics?
+- No, we just remove useless stuff on your phone that's it.
