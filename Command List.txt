@@ -7,10 +7,8 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
 Special Thanks to: James, Adel and Muhammed for testing.
 
-Lastest Change Logs v3.2 Beta:
-- Fixed s voice commands.
-- Minor misc changes.
-
+Lastest Change Logs v3.3 Stable:
+- Minor fixes to improve your experience.
 
 
 Apps list (Use at your own risk):

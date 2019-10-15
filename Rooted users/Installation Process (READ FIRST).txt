@@ -13,21 +13,14 @@ Notice: I cannot make sure it works on every device ever. Please use this at you
 Device tested on: S9
 Special Thanks to: James for the amazing help!
 
-Lastest Change Logs for Simsung Debloater v0.3
-- Added Facebook section.
-- Removed all corrupted files for safety reasons.
-- Fixed system apps not getting removed.
-- Fixed some apps not getting removed.
-- Fixed google and chrome getting removed.
-- Fixed Youtube getting removed.
-- Fixed cleaning of system cache not working on some devices.
-- Fixed priv-apps not getting removed properly.
-- Fixed some errors caused by twrp.
-- Fixed all corrupted files.
-- Updated some commands.
-- Fixed facebook not getting removed due to wrong naming.
-- Fixed all bugs caused by the last update.
-- Fixed Netflix patch, not patching system.
+Lastest Change Logs for Simsung Debloater v0.4-beta
+- Added more troubleshoot in installation file.
+- This update has not been testedl, use with own caution.
+- Removed samsung alive/dolby atmos from list.
+- Fixed soundalive.
+- Fixed netflix again.
+- Major info changes.
+- Compressed all files with best compression methods for a smaller download size.
 _______________________________________
 
 Installation Process here:
@@ -45,7 +38,7 @@ ______________________________________
 - Your device is most likely not supported, simsung tweaks currently only supports the S8, S8+, S9, S9+, S10, S10e, S10+, Galaxy grand prime (gen 1)
 
 2. Netflix still doesn't work
-- This is very strange bug it happen if it does try using magisk hide or try reflash a newer version of the debloater.
+- This is very strange bug it happen if it does try using magiskhide or try reflash a newer version of the debloater.
 
 3. Netflix suddently stops working
 - This is a very strange but but it does happen, if so you just need to reflash the debloater then it should fix it.

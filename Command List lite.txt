@@ -9,8 +9,8 @@ Welcome to Command List Lite
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
 Thanks to: James, Adel and Muhammed for testing.
 
-Change Log v1.2.2
-- Minor fixes.
+Change Log v1.2.3
+- Updated some commands.
 
 ============= List of apps =====================
 (C) simsung tweaks 2019
