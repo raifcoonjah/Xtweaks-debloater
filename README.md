@@ -42,5 +42,5 @@ or
 7. From the Debugging section, tap USB debugging to turn on or off.
 8. If prompted, tap OK to confirm.
 
-<b>3.</b> Battery Drain/Lag?
+<b>4.</b> Battery Drain/Lag?
 - It's nearly impossible to get any battery drain from these commands, but you never know shit happens. If this is the case then your only solution is to backup everything using Smart Switch then Reset your phone. 
