@@ -1,4 +1,4 @@
-![alt text](https://mraif13.github.io/jpg.jpg)
+![img not loaded](https://mraif13.github.io/jpg.jpg)
 
 Special  Thanks to: Ijaz Farooq from XDA for the base commands.<br>
 Special Thanks to: Efex from XDA for his amazing work on easy debloater. <br>
