@@ -1,5 +1,6 @@
 ![fail to load](https://mraif13.github.io/jpg.jpg)
 
+Notice: Hi, We have been really busy lately, we'll back shortly. Thanks for understanding :)
 Special  Thanks to: Ijaz Farooq from XDA for the base commands.<br>
 Special Thanks to: Efex from XDA for his amazing work on easy debloater. <br>
 Other thanks to: James, Reyansh, Sam, Max, Rajesh and Muhammed for testing and their help!<br>
