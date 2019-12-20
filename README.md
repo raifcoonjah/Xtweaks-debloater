@@ -41,7 +41,7 @@ or
 4. Note If presented, enter the current PIN, password, or pattern.
 5. Ensure that the Developer options switch (upper-right) is turned on Switch on.
 6. From the Debugging section, tap USB debugging to turn on or off.
-7. If prompted, tap OK to confirm.
+7. If prompted, tap OK to confirm. Voila!
 
 <b>4.</b> Battery Drain
 - It's nearly impossible to get any battery drain from these commands, but you never know shit happens. If this is the case then your only solution is to backup everything using Smart Switch then Reset your phone. 
