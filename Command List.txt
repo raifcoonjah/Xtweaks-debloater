@@ -7,9 +7,17 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
 Special Thanks to: James, Adel and Muhammed for testing.
 
-Lastest Change Logs v3.4 Stable:
-- Added Galaxy Apps Widget.
-- Bug fixes.
+Lastest Change Logs v4.0 Stable:
+- HUGE Update Enjoy! -
+
+- Removed duplicate commands.
+- Added Samsung Pay.
+- Added Vodafone bloat.
+- Added a new Analytics Section. This should remove all diagnostics, monitoring, agents.
+- Added Officehub.
+- Fixed Svoice.
+- Added Upday news.
+
 
 Apps list (Use at your own risk):
 ========================= List of New Samsung Bloatware ================================
@@ -28,6 +36,9 @@ pm uninstall -k --user 0 com.sec.android.easyMover.Agent
 pm uninstall -k --user 0 com.samsung.android.app.watchmanagerstub
 pm uninstall -k --user 0 com.sec.android.daemonapp
 pm uninstall -k --user 0 com.samsung.svoice.sync
+pm uninstall -k --user 0 com.samsung.android.svoice
+pm uninstall -k --user 0 com.samsung.android.svoiceime
+pm uninstall -k --user 0 de.axelspringer.yana.zeropage
 pm uninstall -k --user 0 com.sec.svoice.lang.ru_RU
 pm uninstall -k --user 0 com.sec.svoice.lang.de_DE
 pm uninstall -k --user 0 com.sec.svoice.lang.fr_FR
@@ -36,6 +47,15 @@ pm uninstall -k --user 0 com.sec.svoice.lang.en_US
 pm uninstall -k --user 0 com.sec.svoice.lang.es_ES
 pm uninstall -k --user 0 com.sec.svoice.lang.it_IT
 
+====== Analytics =======
+pm uninstall -k -user 0 com.sec.android.diagmonagent
+
+====== Samsung spay =======
+pm uninstall -k --user 0 com.samsung.android.samsungpassautofill
+pm uninstall -k --user 0 com.samsung.android.samsungpass
+pm uninstall -k --user 0 com.samsung.android.authfw
+pm uninstall -k --user 0 com.samsung.android.spay
+pm uninstall -k --user 0 com.samsung.android.spayfw
 
 ====== Samsung Email ======
 pm uninstall -k --user 0 com.samsung.android.email.provider
@@ -78,7 +98,6 @@ pm uninstall -k --user 0 com.sec.android.app.desktoplauncher
 ============= Samsung edge widgets =================
 pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge
 
-
 ============= Printing Services ====================
 pm uninstall -k --user 0 com.android.bips
 pm uninstall -k --user 0 com.google.android.printservice.recommendation
@@ -96,12 +115,14 @@ pm uninstall -k --user 0 com.google.android.apps.plus
 pm uninstall -k --user 0 com.google.ar.core
 
 ==================================== List of Microsoft Apps ===========================================
+pm uninstall -k --user 0 com.microsoft.office.officehubrow
 pm uninstall -k --user 0 com.microsoft.skydrive
 pm uninstall -k --user 0 com.skype.raider
 pm uninstall -k --user 0 com.microsoft.office.excel
 pm uninstall -k --user 0 com.microsoft.office.word
 pm uninstall -k --user 0 com.microsoft.office.powerpoint
 pm uninstall -k --user 0 com.microsoft.office.outlook 
+pm uninstall -k --user 0 com.microsoft.office.onenote
 
 
 ==================================== List of Optional commands ========================================
@@ -113,10 +134,6 @@ pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc
 pm uninstall -k --user 0 com.samsung.android.app.vrsetupwizardstub
 pm uninstall -k --user 0 com.samsung.android.hmt.vrshell
 pm uninstall -k --user 0 com.google.vr.vrcore
-
-========== Samsung internet Bloat ============
-pm uninstall -k --user 0 com.sec.android.app.sbrowser
-pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge
 
 ========== Spring Bloat ============ 
 pm uninstall -k --user 0 com.sprint.care
@@ -134,6 +151,9 @@ pm uninstall -k --user 0 com.sprint.topup
 pm uninstall -k --user 0 com.sprint.ms.smf.services
 pm uninstall -k --user 0 com.sprint.safefound
 
+========== Vodafone Bloat ===========
+pm uninstall -k --user 0 com.appseleration.android.selfcare
+
 ========== Facebook Bloat ============ 
 pm uninstall -k --user 0 com.facebook.katana
 pm uninstall -k --user 0 com.facebook.system
@@ -147,12 +167,9 @@ pm uninstall -k --user 0 com.amazon.kindle
 pm uninstall -k --user 0 com.amazon.mp3
 pm uninstall -k --user 0 com.amazon.venezia
 
-============= Samsung Pay ==================
-pm uninstall -k --user 0 com.samsung.android.spay
-
+========= Bixby Lite package ========
 Some info about bixby packages: I decided not remove the Bixby vision and Framework packages so we can still retain built-in QR, barcode scanning and other AI related things found in the stock camera app.
 
-========= Bixby Lite package ========
 pm uninstall -k --user 0 com.samsung.android.app.reminder
 pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
 pm uninstall -k --user 0 com.samsung.android.app.routines
@@ -168,7 +185,6 @@ pm uninstall -k --user 0 com.samsung.android.visionintelligence
 pm uninstall -k --user 0 com.samsung.android.bixby.agent
 pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
 pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
-
 
 ========= Custom and misc =========
 pm uninstall -k --user 0 flipboard.boxer.app
