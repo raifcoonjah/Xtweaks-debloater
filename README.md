@@ -1,4 +1,4 @@
-![alt text](https://mraif13.github.io/jpg.jpg)
+<b>Simsung Tweaks</b> by mraif13
 
 Special  Thanks to: Ijaz Farooq from XDA for the base commands.<br>
 Special Thanks to: Efex from XDA for his amazing work on easy debloater. <br>
