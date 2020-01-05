@@ -8,7 +8,7 @@ This is an experimental feature things might be broken or cause damage to your d
 ======= Make your device faster, lighter and bloatware free ============================
 
 Notice: I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
-Device tested on: S9, Samsung Tab E.
+Device tested on: Samsung Galaxy s9, Samsung Galaxy Grand Prime 2016 Samsung Tab E.
 Special Thanks to: James for the amazing help!
 
 _______________________________________
