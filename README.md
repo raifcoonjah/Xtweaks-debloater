@@ -9,18 +9,19 @@ Other thanks to: James, Reyansh, Sam, Max, Rajesh and Muhammed for testing and t
 2. Any issues please report it in the issues tab to help me fix and improve the tweaks.
 3. Testers are always welcome, if you're willing to test or have a test device, please contact me on https://instagram.com/mraif13
 5. If you get yourself in any problems or you experience any battery drain, please reset your device completely it will fix and undo all the commands.
-6. Apps such as YouTube, Google Music/Movies/Books are optional.
+6. Apps such as YouTube/Chrome/Google Music/Movies/Books are optional.
 
-- <b>Installation Process, get everything going smoooooooooothly</b>
+- <b>Installation Process, get everything going smo00oothly</b>
 1. Download and unzip all the required files.
 2. Open the ADB folder > Shift + Right click > Open Command Prompt/PowerShell here > then type in the command > .\adb shell 
 3. Once done, you should see your device name (Something like this: dreamlte:)
 4. Once it shows up their you can finally start copy and pasting what you're going to remove. 
+x. Copy using the CTRL + C else it will not working.
 5. Past the commands in (Right click on your mouse)
 6. Wait a few seconds for the command to process
 7. Then you should see 'Success' for each command that has applied. 
 8. After that you should be done.
-9. Boot to recovery and clear cache 
+9. Boot to recovery and clear cache (not necessary)
 10. You're now all set enjoy!
 
 - <b>Troubleshoot</b>
