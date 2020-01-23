@@ -49,4 +49,9 @@ or
 <b>5.</b> Device Lag
 - Try clearning the system cache in recovery, if that doesn't work your only solution is to backup everything using Smart Switch then Reset your phone. 
 
+- <b>More Info</b>
+
 Copyright © 2020 Simsung Tweaks. All rights reserved.
+
+<b>Simsung Tweaks</b> is licensed under the
+GNU General Public License v3.0
