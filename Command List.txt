@@ -100,7 +100,7 @@ pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.books
 pm uninstall -k --user 0 com.google.android.apps.magazines
 pm uninstall -k --user 0 com.google.android.apps.plus 
-pm uninstall -k --user 0 com.google.ar.core
+
 
 ==================================== List of Microsoft Apps ===========================================
 pm uninstall -k --user 0 com.microsoft.office.officehubrow
@@ -115,13 +115,14 @@ pm uninstall -k --user 0 com.microsoft.office.onenote
 
 ==================================== List of Optional commands ========================================
 
-========== VR Bloat ===========
+========== VR/AR Bloat ===========
 WARNING, PLEASE READ: Don't apply commands if you use oculus or other vr related apps.
 
 pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc
 pm uninstall -k --user 0 com.samsung.android.app.vrsetupwizardstub
 pm uninstall -k --user 0 com.samsung.android.hmt.vrshell
 pm uninstall -k --user 0 com.google.vr.vrcore
+pm uninstall -k --user 0 com.google.ar.core
 
 ========== Spring Bloat ============ 
 pm uninstall -k --user 0 com.sprint.care
@@ -174,7 +175,7 @@ pm uninstall -k --user 0 com.samsung.android.bixby.agent
 pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
 pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
 
-========= Custom and misc =========
+========= Leftovers =========
 pm uninstall -k --user 0 flipboard.boxer.app
 pm uninstall -k --user 0 flipboard.app
 pm uninstall -k --user 0 com.hancom.office.editor.hidden

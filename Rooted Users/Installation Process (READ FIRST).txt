@@ -16,7 +16,7 @@ _______________________________________
 Installation Process here:
 _______________________________________
 
-1 Install your preferred ROM FIRST.
+1 Install your preferred ROM FIRST. (IMPORTANT: IF YOU DON'T THEN DEVICE WONT BOOT!)
 2 Boot up your phone for the first time. This might not be necessary, but I did experience some problems with SystemUI crashing when I didn't boot up the phone between flashing.
 3 Reboot into revovery and flash .zip
 4 All done! No need to wipe dalvik/cache.
