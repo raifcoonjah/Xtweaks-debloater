@@ -1,8 +1,7 @@
-<b>Simsung Tweaks</b> by mraif13
+<b>Xtweaks</b> by mraif13 
 
-Special  Thanks to: Ijaz Farooq from XDA for the base commands.<br>
-Special Thanks to: Efex from XDA for his amazing work on easy debloater. <br>
-Other thanks to: James, Reyansh, Sam, Max, Rajesh and Muhammed for testing and their help!<br>
+Xtweaks was previously known as Simsung Tweaks.
+Special thanks to: James, Reyansh, Sam, Max, Rajesh and Muhammed for testing and their help.<br>
 
 - <b>Read before starting</b>
 1. All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
@@ -52,7 +51,7 @@ or
 
 - <b>More Info</b>
 
-Copyright © 2020 Simsung Tweaks. All rights reserved.
+Copyright © 2020 Xtweaks. All rights reserved.
 
-<b>Simsung Tweaks</b> is licensed under the
+<b>Xtweaks</b> is licensed under the
 GNU General Public License v3.0
