@@ -54,4 +54,4 @@ or
 Copyright © 2020 Xtweaks. All rights reserved.
 
 <b>Xtweaks</b> is licensed under the
-GNU General Public License v3.0
+MIT License
