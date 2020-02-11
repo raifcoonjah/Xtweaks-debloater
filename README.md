@@ -2,7 +2,6 @@
 
 Xtweaks was previously known as Simsung Tweaks.
 
-
 Special thanks to: James, Reyansh, Sam, Max, Rajesh and Muhammed for testing and their help.<br>
 
 - <b>Read before starting</b>
