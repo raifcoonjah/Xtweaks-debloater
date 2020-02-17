@@ -1,3 +1,1 @@
-I'm working on something special :)
-
-ETA: XX/02/2020
+The next generation of Simsung Tweaks is coming soon. 
