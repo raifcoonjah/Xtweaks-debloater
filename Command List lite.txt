@@ -1,18 +1,20 @@
 
+======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
 
-============= Simsung Tweaks by mraif13 ==============================================
-======= Make your device faster, lighter and bloatware free =====================================
+================= XTweaks by mraif13 previously known as Simsung Tweaks =================================
+======================= The ultimate Debloating Experience ============================
 
-Welcome to Command List Lite
- This is a more liter, friendly version of the command list. This is the command I actually use on my device. This command list will take longer to get updated or might just never get updates. It's currently empty but I'm working on it as we speak most likely it's going to get release later this month.
+Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
+Special Thanks to: James, Adel and Muhammed for testing and help with most of the commands.
+Xtweaks is licensed under the MIT License
 
-Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused.
-Thanks to: James, Adel and Muhammed for testing.
 
-============= List of apps =====================
-(C) simsung tweaks 2020
-pm uninstall -k --user 0 flipboard.boxer.app
-pm uninstall -k --user 0 flipboard.app
+======================= Copy and paste the following into adb shell (Right click to paste in adb) =======================
+
+Apps list Lite (Use at your own risk):
+========================= List of New Samsung Bloatware ================================
+(C) XTweaks 2020. All rights reserved. 
+XTweaks is not responsible if your device is bricked or damaged.
 pm uninstall -k --user 0 com.android.bips
 pm uninstall -k --user 0 com.google.android.printservice.recommendation
 pm uninstall -k --user 0 com.android.printspooler

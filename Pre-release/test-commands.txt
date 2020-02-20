@@ -1,0 +1,24 @@
+
+
+CAUTION: YOU ARE GOING TO USING PRE-RELEASE COMMANDS, WHICH ARE NOT TESTED. PLEASE PROCEED WITH CAUTION!
+
+
+======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
+
+================= XTweaks by mraif13 previously known as Simsung Tweaks =================================
+======================= The ultimate Debloating Experience ============================
+
+Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
+Special Thanks to: James, Adel and Muhammed for testing and help with most of the commands.
+Xtweaks is licensed under the MIT License
+
+
+======================= Copy and paste the following into adb shell =======================
+Apps list (Use at your own risk):
+========================= List of New Samsung Bloatware ================================
+(C) XTweaks 2020. All rights reserved. 
+XTweaks is not responsible if your device is bricked or damaged.
+
+====== Test Commands (ALPHA) (Not tested) =======
+
+Oops! This is still empty. We're working on this feature. Come back later :)
