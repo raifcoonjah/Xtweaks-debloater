@@ -29,7 +29,7 @@ People who made this possible: mraif13, Jakob, Sam, Max, Rajesh and Muhammed.<br
 6. Afterwards retype in adb devices or ./adb devices in the terminal/command if you see  the serial number of your device then you're good if not try reconnecting your device and trying again.
 7. Enter the following:  adb shell or ./adb shell if you're on powershell you should see something like "dreamlte:"
 8. Once it shows up you can start copy and pasting the commands provided in the commands list.txt 
-9. If the apps were founded it show show a text saying Success!
+9. If the apps were found it should show a text saying Success.
 10. Once you're all done, restart your device.
 0. <b>*Advance users only*</b> Clear system cache via recovery, not really needed but your never know.
 0. <b>*Advance users only*</b>: If you want to view all the packages/apps on your device enter: pm list packages | grep '<oem/carrier/app name>
