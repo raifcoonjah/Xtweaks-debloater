@@ -1,11 +1,12 @@
 
-
-CAUTION: YOU ARE GOING TO USING PRE-RELEASE COMMANDS, WHICH ARE NOT TESTED. PLEASE PROCEED WITH CAUTION!
+==========================================================================================================
+| CAUTION: YOU ARE GOING TO USING PRE-RELEASE COMMANDS, WHICH ARE NOT TESTED. PLEASE PROCEED WITH CAUTION! |
+==========================================================================================================
 
 
 ======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
 
-================= XTweaks by mraif13 previously known as Simsung Tweaks =================================
+================================= XTweaks by mraif13 =================================
 ======================= The ultimate Debloating Experience ============================
 
 Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 

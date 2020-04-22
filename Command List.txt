@@ -1,20 +1,34 @@
 ﻿
 
-======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
 
-================= XTweaks by mraif13 previously known as Simsung Tweaks =================================
-======================= The Ultimate Debloating Experience ============================
 
-Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
-Special Thanks to: James, Adel and Muhammed for testing and help with most of the commands.
+                                                                    ======================
+                                                                    | Xtweaks by mraif13 |
+                                                                    ======================
+                                                             ======================================
+                                                             | The Ultimate Debloating Experience |
+                                                             ======================================
+
+
+
+
+
+                                       =================== Before we get start, don't forget to wash your hands! ===================
+
+                                ======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
+
+Notice: All these commands have been tested, but I cannot make sure it works on every device. Please use this at your own risk. 
+I'm not responsible for any damage caused. 
+
+People who made this possible: mraif13, Jakob, Sam, Max, Rajesh and Muhammed.
 Xtweaks is licensed under the MIT License
 
 
-======================= Copy and paste the following into adb shell (Right click to paste in adb) =======================
+======================= Copy and paste the following into adb (Right click to paste in adb) =======================
 Apps list (Use at your own risk):
-========================= List of New Samsung Bloatware ================================
+========================= List of Samsung Bloatware ================================
 (C) XTweaks 2020. All rights reserved. 
-XTweaks is not responsible if your device is bricked or damaged.
+Again, XTweaks is not responsible if your device is bricked or damaged.
 
 ====== Useless/General bloat =======
 pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels
@@ -40,13 +54,15 @@ pm uninstall -k --user 0 com.sec.svoice.lang.en_US
 pm uninstall -k --user 0 com.sec.svoice.lang.es_ES
 pm uninstall -k --user 0 com.sec.svoice.lang.it_IT
 
-====== Backend Analytics =======
-pm disable -k --user 0 com.sec.android.diagmonagent
+====== Samsung AR Emoji ========
+pm uninstall -k --user 0 com.samsung.android.aremoji
 
-====== Samsung spay =======
+====== Samsung Pass =======
 pm uninstall -k --user 0 com.samsung.android.samsungpassautofill
 pm uninstall -k --user 0 com.samsung.android.samsungpass
 pm uninstall -k --user 0 com.samsung.android.authfw
+
+====== Samsung Pay =======
 pm uninstall -k --user 0 com.samsung.android.spay
 pm uninstall -k --user 0 com.samsung.android.spayfw
 
@@ -79,9 +95,16 @@ pm uninstall -k --user 0 com.samsung.android.app.camera.sticker.facearavatar.pre
 pm uninstall -k --user 0 com.samsung.android.app.ledbackcover
 pm uninstall -k --user 0 com.sec.android.cover.ledcover
 
-====== Edge panel (People) ======
+====== Edge Screen (People) ======
 pm uninstall -k --user 0 com.sec.android.widgetapp.samsungapps
 pm uninstall -k --user 0 com.samsung.android.service.peoplestripe
+
+===== Edge Screen (Quicktools) ======
+pm uninstall -k --user 0 com.sec.android.app.quicktool
+
+===== Edge screen (Samsung Internet Panel) =====
+pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge
+
 
 ====== Samsung Dex ======
 pm uninstall -k --user 0 com.sec.android.desktopmode.uiservice
@@ -105,7 +128,9 @@ pm uninstall -k --user 0 com.google.vr.vrcore
 pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.books
 pm uninstall -k --user 0 com.google.android.apps.magazines
-pm uninstall -k --user 0 com.google.android.apps.plus 
+pm uninstall -k --user 0 com.google.android.apps.plus
+pm uninstall -k --user 0 com.google.android.apps.tachyon
+pm uninstall -k --user 0 com.google.android.videos
 
 
 ==================================== List of Microsoft Apps ===========================================
@@ -149,6 +174,14 @@ pm uninstall -k --user 0 com.sprint.safefound
 ========== Vodafone Useless Bloat ===========
 pm uninstall -k --user 0 com.appseleration.android.selfcare
 
+========== Verizon Bloat (BETA) =============
+(Use with caution)
+
+pm uninstall -k --user 0 com.asurion.android.verizon.vms
+pm uninstall -k --user 0 com.motricity.verizon.ssodownloadable
+pm uninstall -k --user 0 com.vzw.hs.android.modlite
+pm uninstall -k --user 0 com.vznavigator.Generic
+
 ========== Facebook Bloat ============ 
 pm uninstall -k --user 0 com.facebook.katana
 pm uninstall -k --user 0 com.facebook.system
@@ -162,13 +195,7 @@ pm uninstall -k --user 0 com.amazon.kindle
 pm uninstall -k --user 0 com.amazon.mp3
 pm uninstall -k --user 0 com.amazon.venezia
 
-========== Verizon Bloat (BETA) =============
-(Use with caution)
 
-pm uninstall -k --user 0 com.asurion.android.verizon.vms
-pm uninstall -k --user 0 com.motricity.verizon.ssodownloadable
-pm uninstall -k --user 0 com.vzw.hs.android.modlite
-pm uninstall -k --user 0 com.vznavigator.Generic
 
 ========= Bixby Lite package ========
 Some info about bixby packages: I decided not remove the Bixby vision and Framework packages so we can still retain built-in QR, barcode scanning and other AI related things found in the stock camera app.
@@ -190,5 +217,8 @@ pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
 pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
 
 ========= Leftovers =========
+pm uninstall -k --user 0 de.axelspringer.yana.zeropage
 pm uninstall -k --user 0 flipboard.boxer.app
 pm uninstall -k --user 0 flipboard.app
+pm uninstall -k --user 0 com.linkedin.android
+pm uninstall -k --user 0 com.hiya.star

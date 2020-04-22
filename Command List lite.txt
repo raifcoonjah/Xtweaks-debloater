@@ -1,11 +1,24 @@
 
-======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
 
-================= XTweaks by mraif13 previously known as Simsung Tweaks =================================
-======================= The ultimate Debloating Experience ============================
+                                                                    ======================
+                                                                    | Xtweaks by mraif13 |
+                                                                    ======================
+                                                             ======================================
+                                                             | The Ultimate Debloating Experience |
+                                                             ======================================
 
-Notice: All these commands have been tested, but I cannot make sure it works on every device ever. Please use this at your own risk. I'm not responsible for any damage caused. 
-Special Thanks to: James, Adel and Muhammed for testing and help with most of the commands.
+
+
+
+
+                                       =================== Before we get start, don't forget to wash your hands! ===================
+
+                                ======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS =========
+
+Notice: All these commands have been tested, but I cannot make sure it works on every device. Please use this at your own risk. 
+I'm not responsible for any damage caused. 
+
+People who made this possible: mraif13, Jakob, Sam, Max, Rajesh and Muhammed.
 Xtweaks is licensed under the MIT License
 
 
