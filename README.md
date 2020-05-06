@@ -6,7 +6,8 @@
 
 People who made this possible: mraif13, Jakob, Sam, Max, Rajesh and Muhammed.<br>
 
-
+## What is Xtweaks?
+Xtweaks uses ADB (Android Debug Bridge) to remove debloat from your Samsung device. Learn more about ADB <a href="https://www.xda-developers.com/what-is-adb/">here</a>
 ## Read before starting
 1. Android Oreo(8.0/.1) - Pie(9.0) (Android 10 is not yet supported, some commands may not work)
 2. All these commands have been tested on multiple devices, but I cannot make sure it works on every device ever. Please use this at your own risk. <b>I'm not responsible for any damage caused</b>.
