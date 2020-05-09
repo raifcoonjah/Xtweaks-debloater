@@ -4,7 +4,7 @@
 
 <b>Xtweaks</b> was previously known as Simsung Tweaks.<b></b>
 
-People who made this possible: mraif13, Jakob, Sam, Max, Rajesh and Muhammed.<br>
+People who made this possible: mraif13, Jakob, Sam and Rajesh.<br>
 
 ## What is Xtweaks?
 Xtweaks uses ADB (Android Debug Bridge) to remove debloat from your Samsung device. Learn more about ADB <a href="https://www.xda-developers.com/what-is-adb/">here</a>
@@ -74,8 +74,6 @@ Xtweaks cannot and doesn't have access to your pictures, contacts and more perso
 <a href="https://paypal.me/raifs" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
 
 Copyright © 2020 <b>Xtweaks</b>. 
-
-Package Sources: <a href="https://apkmirror.com">apkmirror.com</a>
 
 <b>Xtweaks</b> is licensed under the
 MIT License</tr></table>
