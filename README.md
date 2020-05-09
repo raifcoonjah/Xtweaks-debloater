@@ -75,5 +75,6 @@ Xtweaks cannot and doesn't have access to your pictures, contacts and more perso
 
 Copyright © 2020 <b>Xtweaks</b>. 
 
+
 <b>Xtweaks</b> is licensed under the
 MIT License</tr></table>
