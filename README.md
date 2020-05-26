@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://mraif13.github.io/img/New%20Project.png" alt="img not found">
+<img src="https://ibb.co/yFWcXRB" alt="img not found">
 </p>
 
 <b>Xtweaks</b> was previously known as Simsung Tweaks.<b></b>
