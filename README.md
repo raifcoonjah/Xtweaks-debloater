@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ibb.co/yFWcXRB" alt="img not found">
+<a href="https://ibb.co/yFWcXRB"><img src="https://i.ibb.co/k2Qsxy6/New-Project-1.png" alt="imgbb fail" border="0"></a>
 </p>
 
 <b>Xtweaks</b> was previously known as Simsung Tweaks.<b></b>
