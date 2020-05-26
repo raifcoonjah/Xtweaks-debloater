@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/9YJ80tK/template.png">
+<img src="" alt="We're working on a new logo">
 </p>
 
 <b>Xtweaks</b> was previously known as Simsung Tweaks.<b></b>
@@ -78,3 +78,5 @@ Copyright © 2020 <b>Xtweaks</b>.
 
 <b>Xtweaks</b> is licensed under the
 MIT License</tr></table>
+# Special thanks
+_placeholder.txt
