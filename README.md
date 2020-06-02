@@ -5,7 +5,7 @@
 <p align="center"><b>People who made this possible: mraif13, Jakob, Sam and Rajesh.</b></p></br>
 
 ## What is Xtweaks?
-JAKOB.ADD.this
+Xtweaks is a community driven and open source android debloater, that aims to provide a simple and easy way to debloat your Samsung devices. 
 ## Read before starting
 1. Supported Android verions: Nougat(7.0/.1) - Android 10 (10.0) *
 2. All these commands have been tested on multiple devices, but I cannot make sure it works on every device ever. Please use this at your own risk. <b>I'm not responsible for any damage caused</b>.
@@ -13,7 +13,7 @@ JAKOB.ADD.this
 4. If you're willing to help or have a test device, hit me up on IG <a href="https://instagram.com/mraif13">here</a>
 5. If you get yourself in any problems which should not happen but if you do, a quick restart can easily fix the bug if not, back up your phone on Smart Switch then do a reset.
 6. Apps such as YouTube/Chrome/Google Music/Movies/Books are optional.
-7. Please don't steal this and make it seems like it's yours. I put about 15 hours every week to improve and add new commands/features.
+7. Please don't steal this and make it seems like it's yours. I put hours every week to improve and add new commands/features.
 8. If you want to help me even more you can find my PayPal <a href="#more-info">here<a/>
 9. Sometimes apps can come back due to software updates, rerun the commands and you should be up and running again.
 10. Enjoy! #Xtweaks
@@ -61,8 +61,11 @@ Or
 <b>4.</b> Battery Drain or Device lag
 - It's nearly impossible to get any battery drain from these commands, but you never know, If this is the case then your only solution is to back up everything using Smart Switch then Reset your phone. Report the version you're using so I can investigate the issue.
 
-<b>5.</b> Can Xtweaks access my pictures, contacts and more?
+<b>5.</b> Can Xtweaks access my pictures or personal contacts?
 - Please read the privacy section <a href="#privacy">here.</a>
+
+<b>6.</b> Can I use this on something else? Like a Oneplus phone or something?
+- No, I wouldn't recommend it. These commands are meant to only work on Samsung devices. But we're working on bring support to other OEM soon enough.
 
 ## Privacy
 Xtweaks cannot and doesn't have access to your pictures, contacts and more personal information, we only remove bloatware from your devices and that's it. Everything is done offline and locally.
@@ -76,4 +79,6 @@ Copyright © 2020 <b>Raif Coonjah</b>.
 <b>Xtweaks</b> is licensed under the
 MIT License</tr></table>
 # Special thanks
-_placeholder.txt
+A huge thank you to everyone who star and support the project, it means a lot! <3 
+
+-papa bless
