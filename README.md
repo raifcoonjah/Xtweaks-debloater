@@ -77,7 +77,7 @@ Copyright © 2020 <b>Raif Coonjah</b>.
 
 
 <b>Xtweaks</b> is licensed under the
-MIT License</tr></table>
+GNU GENERAL PUBLIC LICENSE</tr></table>
 # Special thanks
 A huge thank you to everyone who star and support the project, it means a lot! <3 
 
