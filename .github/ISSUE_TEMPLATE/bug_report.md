@@ -1,5 +1,6 @@
 ---
-Name: </ Xtweaks - Bug Report />
+Name: Xtweaks - Bug Report v2
+about: Report a bug and help us improve your experience
 
 ---
 
