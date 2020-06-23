@@ -1,0 +1,28 @@
+                     CAUTION: Removing google apps may result in some feature breaking. Use with own risks.
+                                       _  __ __                          __         
+                                      | |/ // /_ _      __ ___   ____ _ / /__ _____ 
+                                      |   // __/| | /| / // _ \ / __ `// //_// ___/ 
+                                     /   |/ /_  | |/ |/ //  __// /_/ // ,<  (__  )_ 
+                                    /_/|_|\__/  |__/|__/ \___/ \__,_//_/|_|/____/(_)
+                                                
+                                                 - Project Degoogle -
+
+
+About this project: Project Degoogle is a bunch of adb commands that removes every single google app on your phone,
+reducing memory usage and gaining your privacy back in the cost of some core features. 
+
+Notice: All these commands have been tested, but I cannot make sure it works on every device. Please use this at your own risk. 
+I'm not responsible for any damage caused. 
+
+People who made this possible: mraif13, Jakob, Sam and Rajesh.
+Xtweaks is licensed under the GNU GENERAL PUBLIC LICENSE
+
+
+======================= Copy and paste the following into adb (Right click to paste in adb) =======================
+Apps list (Use at your own risk):
+(C) XTweaks 2019-2020. All rights reserved.
+
+
+
+
+We're working on this feature. Come back later!
