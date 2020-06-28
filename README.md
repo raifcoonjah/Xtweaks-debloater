@@ -59,13 +59,13 @@ Or
 8. Disconnect and reconnect your phone.
 
 <b>4.</b> Battery Drain or Device lag
-- It's nearly impossible to get any battery drain from these commands, but you never know, If this is the case then your only solution is to back up everything using Smart Switch then Reset your phone. Report the version you're using so I can investigate the issue.
+- It's nearly impossible to get any battery drain from these commands, but you never know, If this is the case then your only solution is to back up everything using Smart Switch then Reset your phone. Report the version you're using, so we can investigate the issue.
 
 <b>5.</b> Can Xtweaks access my pictures or personal contacts?
 - Please read the privacy section <a href="#privacy">here.</a>
 
 <b>6.</b> Can I use this on something else? Like a Oneplus phone or something?
-- No, I wouldn't recommend it. These commands are meant to only work on Samsung devices. But we're working on bring support to other OEM soon enough.
+- No, we wouldn't recommend it. These commands are meant to only work on Samsung devices. But we're working on bring support to other OEM soon enough.
 
 <b>7.</b> Do you test this commands? 
 - Yes, we usually test them on multiple devices running different versions of android for two to three weeks then post them if we didn't encounter any issues.
