@@ -67,6 +67,9 @@ Or
 <b>6.</b> Can I use this on something else? Like a Oneplus phone or something?
 - No, I wouldn't recommend it. These commands are meant to only work on Samsung devices. But we're working on bring support to other OEM soon enough.
 
+<b>7.</b> Do you test this commands? 
+- Yes, we usually test them on multiple devices running different versions of android for two to three weeks then post them if we didn't encounter any issues.
+
 ## Privacy
 Xtweaks cannot and doesn't have access to your pictures, contacts and more personal information, we only remove bloatware from your devices and that's it. Everything is done offline and locally.
 
