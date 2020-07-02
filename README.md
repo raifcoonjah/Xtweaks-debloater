@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://ibb.co/yFWcXRB"><img src="https://i.ibb.co/k2Qsxy6/New-Project-1.png" alt="xtweaks logo" border="0"></a>
+<img src="https://i.ibb.co/k2Qsxy6/New-Project-1.png" alt="xtweaks logo" border="0"></a>
 </p>
 
 <p align="center"><b>People who made this possible: mraif13, Jakob, Sam and Rajesh.</b></p></br>
