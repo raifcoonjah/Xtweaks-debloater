@@ -30,7 +30,8 @@ Xtweaks is a community driven and open source android debloater, that aims to pr
 8. Once it shows up you can start copy and pasting the commands provided in the lists provided.
 9. If the apps were found and removed successfully a text should appear saying Success.
 10. Once you're all done, restart your device (Recommended)
-11. <b>*Advance users only*</b>: If you want to view all the packages/apps on your device enter: pm list packages | grep '<oem/carrier/app name>
+11. <b>*Advance users only*</b>: If you want to view all the packages/apps on your device enter: pm list packages | grep '<oem/carrier/app name> <br>
+69. Psst psst! click this link to test our new v7 with auto debloater and more. <a href="https://bit.ly/32DgAxP">sUpEErHiDdEnlInK.html</a>
 
 <b>Or</b> 
 
@@ -60,7 +61,7 @@ Or
 <b>4.</b> Battery Drain or Device lag
 - It's nearly impossible to get any battery drain from these commands, but you never know, If this is the case then your only solution is to back up everything using Smart Switch then Reset your phone. Report the version you're using, so we can investigate the issue.
 
-<b>5.</b> Can Xtweaks access my pictures or personal contacts?
+<b>5.</b> - Can Xtweaks access pictures that I send to my Girlfriend at 3AM in the morning?
 - Please read the privacy section <a href="#privacy">here.</a>
 
 <b>6.</b> Can I use this on something else? Like a Oneplus phone or something?
@@ -70,12 +71,12 @@ Or
 - Yes, we usually test them on multiple devices running different versions of android for two to three weeks then post them if we didn't encounter any issues.
 
 ## Privacy
-Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, contacts and more personal information, we only remove bloatware from your devices and that's it. Everything is done offline and locally.
+Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it. Everything is done offline and locally.
 
 ## More info
 <a href="https://paypal.me/raifs" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
 
-Copyright © 2020 <b>Xtweaks</b>. Xtweaks is not affliated with Samsung in any way possible.
+Xtweaks is not affliated with Samsung in any way possible.
 
 
 <b>Xtweaks</b> is licensed under the
