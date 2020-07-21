@@ -20,9 +20,52 @@ Xtweaks is licensed under the GNU GENERAL PUBLIC LICENSE
 
 ======================= Copy and paste the following into adb (Right click to paste in adb) =======================
 Apps list (Use at your own risk):
-(C) XTweaks 2019-2020. All rights reserved.
 
+====== Google App =======
+pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 
+====== YouTube ======
+pm uninstall -k --user 0 com.google.android.youtube
 
+====== Chrome =======
+pm uninstall -k --user 0 com.android.chrome
+pm uninstall -k --user 0 com.sec.android.app.chromecustomizations
 
-We're working on this feature. Come back later!
+====== Google Market Feedback Agent ======
+pm uninstall -k --user 0 com.google.android.feedback
+
+====== Google Photos ======
+pm uninstall -k --user 0 com.google.android.apps.photos
+
+====== Google Print Service Recommendation Service ======
+pm uninstall -k --user 0 com.google.android.printservice.recommendation
+
+====== Google sync contacts ======
+pm uninstall -k --user 0 com.google.android.syncadapters.contacts
+
+====== Google sync calendar ======
+pm uninstall -k --user 0 com.google.android.syncadapters.calendar
+
+====== Google Music ======
+pm uninstall -k --user 0 com.google.android.music
+
+====== Google Maps =======
+pm uninstall -k --user 0 com.google.android.apps.maps
+
+====== Google Drive ======
+pm uninstall -k --user 0 com.google.android.apps.docs
+
+====== Google Duo ======
+pm uninstall -k --user 0 com.google.android.apps.tachyon
+
+====== Google Play Movies & TV ======
+pm uninstall -k --user 0 com.google.android.videos
+
+====== Google Gmail =======
+pm uninstall -k --user 0 com.google.android.gm
+
+====== X Google Enrollment ======
+pm uninstall -k -user 0 com.android.hotwordenrollment.xgoogle
+
+====== OK Google Enrollment ======
+com.android.hotwordenrollment.okgoogle
