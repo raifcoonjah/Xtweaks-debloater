@@ -11,7 +11,7 @@
 About this project: Project Degoogle is a bunch of adb commands that removes every single google app expect the google playstore and some other core apps on your phone, reducing memory usage and gaining your privacy back in the cost of some core features.
 
 Notice: All these commands have been tested, but I cannot make sure it works on every device. Please use this at your own risk. 
-I'm not responsible for any damage caused. 
+We're not responsible for any damage caused. 
 
 People who made this possible: mraif13, Jakob, Sam and Rajesh.
 Xtweaks is licensed under the GNU GENERAL PUBLIC LICENSE
