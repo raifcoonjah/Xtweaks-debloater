@@ -67,4 +67,4 @@ pm uninstall -k --user 0 com.google.android.gm
 pm uninstall -k -user 0 com.android.hotwordenrollment.xgoogle
 
 ====== OK Google Enrollment ======
-com.android.hotwordenrollment.okgoogle
+pm uninstall -k -user 0 com.android.hotwordenrollment.okgoogle
