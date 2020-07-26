@@ -72,6 +72,6 @@ pm uninstall -k -user 0 com.android.hotwordenrollment.okgoogle<br>
 ====== Google Lens ======<br>
 pm uninstall -k --user 0 com.google.ar.lens<br>
 
-(May cause system instability)
-====== Android Accessibility Suite ======
-pm uninstall -k --user 0 com.google.android.marvin.talkback
+(May cause system instability)<br>
+====== Android Accessibility Suite ======<br>
+pm uninstall -k --user 0 com.google.android.marvin.talkback<br>
