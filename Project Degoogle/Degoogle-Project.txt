@@ -68,3 +68,10 @@ pm uninstall -k -user 0 com.android.hotwordenrollment.xgoogle
 
 ====== OK Google Enrollment ======
 com.android.hotwordenrollment.okgoogle
+
+====== Google Lens ======
+pm uninstall -k --user 0 com.google.ar.lens
+
+(May cause system instability)
+====== Android Accessibility Suite ======
+pm uninstall -k --user 0 com.google.android.marvin.talkback
