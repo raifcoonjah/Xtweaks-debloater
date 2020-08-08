@@ -7,6 +7,7 @@
 
 ## What is Xtweaks?
 Xtweaks is a community driven and open source android debloater, that aims to provide a simple and easy way to debloat your Samsung devices. 
+
 ## Read before starting
 1. Supported Android verions: Nougat(7.0/.1) - Android 10 (10.0) 
 2. All these commands have been tested on multiple devices, but I cannot make sure it works on every device ever. Please use this at your own risk. <b>I'm not responsible for any damage caused</b>.
@@ -16,8 +17,8 @@ Xtweaks is a community driven and open source android debloater, that aims to pr
 6. Removed youtube? Used vanced instead. It comes with build in adblocking, picture and picture and more, find more info: <a href="https://vanced.app/">Here</a> 
 7. Please don't steal this and make it seems like it's yours. We put hours every week to improve and add new commands.
 8. Sometimes apps can come back due to software updates, rerun the commands and you should be up and running again.
-9. Enjoy! #Xtweaks
-  
+
+
 ## Installation Process
 0. Download the files.
 1. Extract the zip file into a folder that you can quickly access. 
@@ -31,7 +32,6 @@ Xtweaks is a community driven and open source android debloater, that aims to pr
 9. If the apps were found and removed successfully a text should appear saying Success.
 10. Once you're all done, restart your device (Recommended)
 11. <b>*Advance users only*</b>: If you want to view all the packages/apps on your device enter: pm list packages | grep '<oem/carrier/app name> <br>
-69. Psst psst! click this link to test our new v7 with auto debloater and more. <a href="https://bit.ly/32DgAxP">sUpEErHiDdEnlInK.html</a>
 
 <b>Or</b> 
 
@@ -81,7 +81,8 @@ Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme 
 
 <b>Xtweaks</b> is licensed under the
 GNU GENERAL PUBLIC LICENSE</tr></table>
+
 # Special thanks
 A huge thank you to everyone who star and support the project, it means a lot! <3 
 
--papa bless
+- Papa bless
