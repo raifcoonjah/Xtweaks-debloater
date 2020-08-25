@@ -49,6 +49,16 @@ pm uninstall -k --user 0 com.sec.svoice.lang.en_US
 pm uninstall -k --user 0 com.sec.svoice.lang.es_ES
 pm uninstall -k --user 0 com.sec.svoice.lang.it_IT
 
+
+======== SecurityLog agent =======
+pm uninstall -k --user 0 com.samsung.android.securitylogagent (This will remove the notification you get if you're rooted and using stock rom)
+
+======== Samsung Cloud ======= 
+pm uninstall -k --user 0 com.samsung.android.scloud (This will break any feature that require samsung cloud to backup things)
+
+======== Samsung Music =======
+pm uninstall -k --user 0 com.sec.android.app.music
+
 ======== Samsung Tips ========
 pm uninstall -k --user 0 com.samsung.android.app.tips
 
