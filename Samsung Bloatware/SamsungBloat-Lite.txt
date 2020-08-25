@@ -15,7 +15,7 @@
 Notice: All these commands have been tested, but I cannot make sure it works on every device. Please use this at your own risk. 
 I'm not responsible for any damage caused. 
 
-People who made this possible: mraif13, Jakob, Sam and Rajesh.
+People who made this possible: mraif13, Jakobisaway.
 Xtweaks is licensed under the GNU GENERAL PUBLIC LICENSE
 
 
@@ -48,6 +48,9 @@ pm uninstall -k --user 0 com.imdb.mobile
 pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite
 pm uninstall -k --user 0 com.infraware.polarisoffice5 
 pm uninstall -k --user 0 com.nuance.swype.input
+pm uninstall -k --user 0 de.axelspringer.yana.zeropage
+pm uninstall -k --user 0 com.linkedin.android
+pm uninstall -k --user 0 com.hiya.star
 
 
 
