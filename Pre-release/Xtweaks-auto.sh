@@ -8,18 +8,17 @@ echo "                _  __ __                          __            ___     __
 echo "Xtweaks Auto Alpha: V0.1 " 
 echo "Based on: Samsungbloat.txt list v6.1.2.1" 
 echo "=================== Xtweaks Auto automates the process of debloating your device! ==================="                                                                         
-echo "=================== Before we get start, don't forget to wash your hands! ==================="
 echo "======= Thanks for downloading, if you want to buy me a croissant use this link: paypal.me/RaifS ========="
 echo "Notice: All these commands have been tested, but I cannot make sure it works on every device. Please use this at your own risk. 
 I'm not responsible for any damage caused."
 
-read -p "Xtweaks: Press ENTER to continue or press CTRL + C on your keyboard to quit";echo
+read -p "Xtweaks Auto: Press ENTER to continue or press CTRL + C on your keyboard to quit";echo
 
-echo "--- Useless/General bloat --
-
-
+echo "--- Useless/General bloat -- "
 
 
 
 
-Unmerged SamsungBloat.txt
+
+
+####### On hold! #######
