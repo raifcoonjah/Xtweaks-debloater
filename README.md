@@ -71,7 +71,7 @@ Or
 - Yes, we usually test them on multiple devices running different versions of android for two to three weeks then post them if we didn't encounter any issues.
 
 ## Privacy
-Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it. Everything is done offline and locally.
+Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it. Everything is done offline, we don't even require a internet connection to work!
 
 ## More info
 <a href="https://paypal.me/raifs" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
@@ -85,4 +85,4 @@ GNU GENERAL PUBLIC LICENSE</tr></table>
 # Special thanks
 A huge thank you to everyone who star and support the project, it means a lot! <3 
 
-- Papa bless
+-papa bless
