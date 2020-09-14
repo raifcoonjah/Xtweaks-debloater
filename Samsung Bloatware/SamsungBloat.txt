@@ -65,6 +65,7 @@ pm uninstall -k --user 0 com.samsung.android.app.tips
 ======== Samsung SmartThings ========
 pm uninstall -k --user 0 com.samsung.android.oneconnect
 pm uninstall -k --user 0 com.samsung.android.easysetup
+
 ====== Samsung AR Emoji ========
 pm uninstall -k --user 0 com.samsung.android.aremoji
 
