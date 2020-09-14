@@ -1,4 +1,4 @@
-                     CAUTION: Removing google apps may result in some feature breaking. Use with own risks.
+             CAUTION: Removing google apps may result in some core android features breaking. Use with own risks.
                                        _  __ __                          __         
                                       | |/ // /_ _      __ ___   ____ _ / /__ _____ 
                                       |   // __/| | /| / // _ \ / __ `// //_// ___/ 
