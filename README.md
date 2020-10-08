@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://i.ibb.co/k2Qsxy6/New-Project-1.png" alt="xtweaks logo" border="0"></a>
-</p>
+<div align="center">
+  <h1>Xtweaks</h1>
+  </div>
 
 <p align="center"><b>People who made this possible: mraif13 and Jacobisaway</b></p>
 <p align="center"><b>Testers: Sam and Rajesh</b></p></br>
