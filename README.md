@@ -2,8 +2,7 @@
   <h1>Xtweaks</h1>
   </div>
 
-<p align="center"><b>People who made this possible: mraif13 and Jacobisaway</b></p>
-<p align="center"><b>Testers: Sam and Rajesh</b></p></br>
+<p align="center"><b>Android Debloater</b></p>
 
 ## What is Xtweaks?
 Xtweaks is a community driven and open source android debloater, that aims to provide a simple and easy way to debloat your Samsung devices. 
