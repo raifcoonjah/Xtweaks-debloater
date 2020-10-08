@@ -56,19 +56,19 @@ Or
 8. Disconnect and reconnect your phone.
 
 <b>4.</b> Battery Drain or Device lag
-- It's nearly impossible to get any battery drain from these commands, but you never know, If this is the case then your only solution is to back up everything using Smart Switch then Reset your phone. Report the version you're using, so we can investigate the issue.
+- It's nearly impossible to get any battery drain from these commands, but you never know, If this is the case then your only solution is to back up everything using Smart Switch then Reset your phone. Report the version you're using, so I can investigate the issue.
 
-<b>5.</b> - Can Xtweaks access pictures that I send to my Girlfriend at 3AM in the morning?
+<b>5.</b> - Can Xtweaks access pictures that I send to my Girlfriend at 3AM?
 - Please read the privacy section <a href="#privacy">here.</a>
 
 <b>6.</b> Can I use this on something else? Like a Oneplus phone or something?
-- No, we wouldn't recommend it. These commands are meant to only work on Samsung devices. But we're working on bring support to other OEM soon enough.
+- No, I wouldn't recommend it. These commands are meant to only work on Samsung devices. But I'm working on bringing support to other OEM soon.
 
 <b>7.</b> Do you test this commands? 
-- Yes, we usually test them on multiple devices running different versions of android for two to three weeks then post them if we didn't encounter any issues.
+- Yes, I usually test them on multiple devices running different versions of android for two to three weeks then post them if I don't encounter any issues.
 
 ## Privacy
-Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it. Everything is done offline.
+First why are you awake at 3AM? second, Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it.
 
 ## More info
 <a href="https://paypal.me/raifs" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
