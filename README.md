@@ -9,12 +9,11 @@ Xtweaks is a community driven and open source android debloater, that aims to pr
 1. Supported Android verions: Nougat(7.0/.1) - Android 10 (10.0) 
 2. All these commands have been tested on multiple devices, but I cannot make sure it works on every device ever. Please use this at your own risk. <b>I'm not responsible for any damage caused</b>.
 3. If you find or experienced any bugs or errors, please report them on issues tab.
-4. If you're willing to help or have a test device, hit me up on IG <a href="https://instagram.com/mraif13">here</a>
-5. If you get yourself in any problems which should not happen but if you do, a quick restart can easily fix the bug if not, back up your phone on Smart Switch then do a reset.
-6. Removed youtube? Used vanced instead. It comes with build in adblocking, picture and picture and more, find more info: <a href="https://vanced.app/">Here</a> 
-7. Please don't steal this and make it seems like it's yours. We put hours every week to improve and add new commands.
-8. Sometimes apps can come back due to software updates, rerun the commands and you should be up and running again.
-9. Enjoy! #Xtweaks
+4. If you get yourself in any problems which should not happen but if you do, a quick restart can easily fix the bug if not, back up your phone on Smart Switch then do a reset.
+5. Removed youtube? Used vanced instead. It comes with build in adblocking, picture and picture and more, find more info: <a href="https://vanced.app/">Here</a> 
+6. Please don't steal this and make it seems like it's yours. 
+7. Sometimes apps can come back due to software updates, rerun the commands and you should be up and running again.
+8. Enjoy! #floorgang
   
 ## Installation Process
 0. Download the files.
@@ -69,7 +68,7 @@ Or
 - Yes, we usually test them on multiple devices running different versions of android for two to three weeks then post them if we didn't encounter any issues.
 
 ## Privacy
-Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it. Everything is done offline and locally.
+Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it. Everything is done offline.
 
 ## More info
 <a href="https://paypal.me/raifs" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
