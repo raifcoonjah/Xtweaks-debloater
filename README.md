@@ -74,10 +74,10 @@ Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme 
 ## More info
 <a href="https://paypal.me/raifs" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
 
-<b>Xtweaks</b> is not affliated with Samsung in any way possible.
+<b>Xtweaks Debloater</b> is not affliated with Samsung in any way possible.
 
 
-<b>Xtweaks</b> is licensed under the
+<b>Xtweaks Debloater</b> is licensed under the
 GNU GENERAL PUBLIC LICENSE</tr></table>
 # Special thanks
 A huge thank you to everyone who star and support the project, it means a lot! <3 
