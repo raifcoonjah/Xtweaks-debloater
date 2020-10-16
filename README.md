@@ -10,7 +10,7 @@ Xtweaks is a community driven and open source android debloater, that aims to pr
 2. All these commands have been tested on multiple devices, but I cannot make sure it works on every device ever. Please use this at your own risk. <b>I'm not responsible for any damage caused</b>.
 3. If you find or experienced any bugs or errors, please report them on issues tab.
 4. If you get yourself in any problems which should not happen but if you do, a quick restart can easily fix the bug if not, back up your phone on Smart Switch then do a reset.
-5. Removed youtube? Used vanced instead. It comes with build in adblocking, picture and picture and more, find more info: <a href="https://vanced.app/">Here</a> 
+5. Removed youtube? Used vanced instead. It comes with build in adblocking, picture and picture and more, find more info: <a href="https://vancedapp.com/">Here</a> 
 6. Please don't steal this and make it seems like it's yours. 
 7. Sometimes apps can come back due to software updates, rerun the commands and you should be up and running again.
 8. Enjoy! #floorgang
