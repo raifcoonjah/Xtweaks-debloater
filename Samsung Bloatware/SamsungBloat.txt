@@ -21,7 +21,7 @@ Xtweaks is licensed under the GNU GENERAL PUBLIC LICENSE
 
 ======================= Copy and paste the following into adb (Right click to paste in adb) =======================
 Apps list (Use at your own risk):
-(C) XTweaks 2019-2020. All rights reserved. 
+(c) Xtweaks Debloater.
 Again, XTweaks is not responsible if your device is bricked or damaged.
 
 
@@ -51,7 +51,7 @@ pm uninstall -k --user 0 com.sec.svoice.lang.it_IT
 
 
 ======== SecurityLog agent =======
-========(This will remove the annoying notification when you're rooted) =======
+========(This will remove the annoying notification you get when you're rooted) =======
 
 pm uninstall -k --user 0 com.samsung.android.securitylogagent 
 
@@ -138,7 +138,7 @@ pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.music
 pm uninstall -k --user 0 com.google.android.apps.docs
 pm uninstall -k --user 0 com.google.vr.vrcore
-pm uninstall -k --user 0 com.google.android.youtube
+pm uninstall -k --user 0 com.google.android.youtube 
 pm uninstall -k --user 0 com.google.android.apps.books
 pm uninstall -k --user 0 com.google.android.apps.magazines
 pm uninstall -k --user 0 com.google.android.apps.plus
@@ -211,7 +211,7 @@ pm uninstall -k --user 0 com.amazon.venezia
 
 ========= Bixby Lite package ========
 
-About: Some info about bixby packages: We decided not remove the Bixby vision and Framework packages 
+Notice: Some info about bixby packages: We decided not remove the Bixby vision and Framework packages 
 so we can still retain built-in QR, barcode scanning and other AI related things found in the stock camera app.
 <========================================>
 pm uninstall -k --user 0 com.samsung.android.app.reminder
