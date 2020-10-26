@@ -7,6 +7,17 @@
   outline: none;
 }
 
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #408546;
+  text-decoration: underline;
+  transition: 0.1s ease-in;
+}
+
 body {
   background-color: #121212;
   color: #fff;
@@ -33,13 +44,14 @@ li {
   display: inline;
   padding: 15px;
   border-radius: 7px;
+  font-weight: 600;
   border: 2px solid #1b1b1b;
 }
 
 .menu {
   text-align: center;
   color: #fff;
-  font-size: 20px;
+  font-size: 17px;
   text-align: center;
   margin: 20px;
 }
@@ -62,10 +74,10 @@ li {
 }
 
 li:hover {
-  background-color: #292e91;
+  background-color: #4c9c53;
   cursor: pointer;
-  transition: 0.2s;
-  border: 2px solid #292e91;
+  transition: 0.2s ease-in;
+  border: 2px solid #4c9c53;
 }
 
 .big-text-desc {
@@ -99,4 +111,12 @@ li:hover {
 .footer {
   text-align: center;
   padding: 15px;
+}
+
+.repair-img{
+  height: 35vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
