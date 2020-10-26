@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Trispace:wght@300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@
 body {
   background-color: #121212;
   color: #fff;
-  font-family: "Trispace", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 h1 {
@@ -30,7 +30,6 @@ ul {
 }
 
 li {
-  list-style-type: none;
   display: inline;
   padding: 15px;
   border-radius: 7px;
@@ -46,11 +45,20 @@ li {
 }
 
 @media only screen and (max-width: 600px) {
-  .menu {
-    margin: 15px;
-    font-size: 14px;
-    font-weight: 600;
+  ul {
+    padding: 5px;
+    font-size: 17px;
   }
+  li {
+    display: block;
+    padding: 10px;
+    margin: 8px;
+  }
+}
+
+.menu a {
+  text-decoration: none;
+  color: #fff;
 }
 
 li:hover {
@@ -63,11 +71,6 @@ li:hover {
 .big-text-desc {
   text-align: center;
   font-weight: 500;
-}
-
-li a {
-  text-decoration: none;
-  color: #fff;
 }
 
 .container_code {
