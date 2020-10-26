@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Trispace:wght@300;400;500;600;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+
+body {
+  background-color: #121212;
+  color: #fff;
+  font-family: "Trispace", sans-serif;
+}
+
+h1 {
+  font-size: 2.7em;
+}
+
+.big-text {
+  padding: 20px 20px 20px;
+  text-align: center;
+  font-weight: 600;
+}
+
+ul {
+  padding: 20px;
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  padding: 15px;
+  border-radius: 7px;
+  border: 2px solid #1b1b1b;
+}
+
+.menu {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  margin: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .menu {
+    margin: 15px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+}
+
+li:hover {
+  background-color: #292e91;
+  cursor: pointer;
+  transition: 0.2s;
+  border: 2px solid #292e91;
+}
+
+.big-text-desc {
+  text-align: center;
+  font-weight: 500;
+}
+
+li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.container_code {
+  padding: 20px;
+  margin: 15px;
+  background: rgb(22, 22, 22) !important;
+  border-radius: 7px;
+  user-select: text;
+  border: 1px solid grey;
+
+  transition: border-color 0.2s;
+}
+
+.container_code:hover {
+  border-color: #ff4754;
+}
+
+.lr-bg {
+  margin: 20px;
+  border-radius: 7px;
+  padding: 15px;
+  line-height: 2;
+  background-color: rgb(31, 31, 31);
+}
+
+.footer {
+  text-align: center;
+  padding: 15px;
+}
