@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Trispace:wght@300;400;500;600;700;800&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -7,31 +7,32 @@
   outline: none;
 }
 
-a {
-  color: #fff;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #408546;
-  text-decoration: underline;
-  transition: 0.1s ease-in;
-}
-
 body {
   background-color: #121212;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Trispace", sans-serif;
 }
 
 h1 {
   font-size: 2.7em;
 }
 
-.big-text {
+.big-text-hover,
+.big-text,
+.big-text a {
+  font-size: 25px;
   padding: 20px 20px 20px;
   text-align: center;
   font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+}
+
+.big-text-hover:hover {
+  background-color: #1b1b1b;
+  padding: 15px;
+  border-radius: 10px;
+  transition: 0.1s;
 }
 
 ul {
@@ -41,65 +42,47 @@ ul {
 }
 
 li {
+  list-style-type: none;
   display: inline;
   padding: 15px;
   border-radius: 7px;
-  font-weight: 600;
   border: 2px solid #1b1b1b;
 }
 
 .menu {
   text-align: center;
   color: #fff;
-  font-size: 17px;
+  font-size: 20px;
   text-align: center;
   margin: 20px;
 }
 
 @media only screen and (max-width: 600px) {
-  ul {
-    padding: 5px;
-    font-size: 17px;
+  .menu {
+    margin: 15px;
+    font-size: 14px;
+    font-weight: 600;
   }
-  li {
-    display: block;
-    padding: 10px;
-    margin: 8px;
-  }
-}
-
-.menu a {
-  text-decoration: none;
-  color: #fff;
 }
 
 li:hover {
-  background-color: #4c9c53;
+  background-color: #292e91;
   cursor: pointer;
-  transition: 0.2s ease-in;
-  border: 2px solid #4c9c53;
+  transition: 0.2s;
+  border: 2px solid #292e91;
 }
 
 .big-text-desc {
   text-align: center;
   font-weight: 500;
+  text-decoration: none;
+  color: #fff;
 }
 
-.container_code {
-  padding: 20px;
-  margin: 15px;
-  background: rgb(22, 22, 22) !important;
-  border-radius: 7px;
-  user-select: text;
-  border: 1px solid grey;
-
-  transition: border-color 0.2s;
+li a {
+  text-decoration: none;
+  color: #fff;
 }
-
-.container_code:hover {
-  border-color: #ff4754;
-}
-
 .lr-bg {
   margin: 20px;
   border-radius: 7px;
@@ -111,12 +94,4 @@ li:hover {
 .footer {
   text-align: center;
   padding: 15px;
-}
-
-.repair-img{
-  height: 35vh;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
 }
