@@ -1,4 +1,4 @@
-![Xtweaks-debloater](https://socialify.git.ci/mraif13/Xtweaks-debloater/image?font=Raleway&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
+![Xtweaks-debloater](https://socialify.git.ci/mraif13/Xtweaks-debloater/image?font=KoHo&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
 <div align="center">
   <p align="center"><b> Android Debloater </b></p>
   </div>
