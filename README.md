@@ -28,7 +28,6 @@ Xtweaks is a community driven and open source android debloater, that aims to pr
 9. If the apps were found and removed successfully a text should appear saying Success.
 10. Once you're all done, restart your device (Recommended)
 11. <b>*Advance users only*</b>: If you want to view all the packages/apps on your device enter: pm list packages | grep '<oem/carrier/app name> <br>
-69. Psst psst! click this link to test our new v7 with auto debloater and more. <a href="https://bit.ly/32DgAxP">sUpEErHiDdEnlInK.html</a>
 
 <b>Or</b> 
 
@@ -71,7 +70,7 @@ Or
 First why are you awake at 3AM? second, Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it.
 
 ## More info
-<a href="https://paypal.me/raifs" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
+<a href="https://paypal.me/RaifS" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
 
 <b>Xtweaks Debloater</b> is not affliated with Samsung in any way possible.
 
