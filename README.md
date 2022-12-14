@@ -72,9 +72,6 @@ Or
 ## Privacy
 First why are you awake at 3AM? second, Xtweaks cannot and doesn't have access to your pictures, Snapchat stories, meme folder, contacts and others, we only remove bloatware from your devices and that's it.
 
-## More info
-<a href="https://paypal.me/RaifS" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="host error!"></a>
-
 <b>Xtweaks Debloater</b> is not affliated with Samsung in any way possible.
 
 
